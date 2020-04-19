@@ -1,0 +1,39 @@
+git config --global user.email "username" - done
+git config --global user.name "name" - done
+git init - done
+git clone "url"  - done 
+git status - done
+git add -A   - done
+git commit -a   - done
+git remote add origin "repository url" - done
+git push -u origin master -force     - done
+
+git branch - done
+git checkout - done
+git merge - done
+git rebase - done
+
+
+
+Git Stash - done
+Git Log - done
+
+Git Commit Amend - done
+
+Git Reset Head (only recent immidiate commit's but not applicable for any specific commit) - done
+soft - Files would be staged, working tree would not be reset
+Mixed - By dafault - Files would be unstaged, working tree would not be reset
+Hard - Dangerous command - everything would be reset and head will move to the next immidiate commit
+
+Git Revert (applicable for specific commit to revert changes from remote repository)  done
+
+
+Git Ref Log - done
+
+Git Bisect
+Git Cherrypick
+git tag
+git send email
+
+
+My Repo:- https://github.com/ShubhankarDe/Shubhankar-s-Repo1.git

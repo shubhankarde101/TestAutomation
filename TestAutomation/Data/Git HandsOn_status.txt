@@ -1,0 +1,27 @@
+git config --global user.email "username" - done
+git config --global user.name "name" - done
+git init - done
+git clone "url"  - done 
+git status - done
+git add -A   - done
+git commit -a   - done
+git remote add origin "repository url" - done
+git push -u origin master -force     - done
+
+git branch
+git checkout
+git merge
+git rebase
+
+
+git tag
+git send email
+Git Stash
+Git Log - done
+Git Commit Amend
+Git Reset Head
+Git Update Ref
+Git Ref Log
+Git Bisect
+
+My Repo:- https://github.com/ShubhankarDe/Shubhankar-s-Repo1.git

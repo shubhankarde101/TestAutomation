@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" parallel="classes">
+  <test name="Test1(failed)" parallel="classes">
+    <classes>
+      <class name="com.automation.utilities.DemoTestNG2">
+        <methods>
+          <include name="setUpTest"/>
+          <include name="initialize"/>
+          <include name="TearDown"/>
+          <include name="Finalize"/>
+        </methods>
+      </class> <!-- com.automation.utilities.DemoTestNG2 -->
+      <class name="com.automation.utilities.DemoTestNG">
+        <methods>
+          <include name="initialize"/>
+          <include name="setUpTest"/>
+          <include name="TearDown"/>
+          <include name="Finalize"/>
+          <include name="googleSearch2"/>
+        </methods>
+      </class> <!-- com.automation.utilities.DemoTestNG -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

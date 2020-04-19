@@ -1,0 +1,72 @@
+Which of the following is not applicable to Data Mining?
+Involves working with known information  --  Correct
+
+The process of extracting valid, useful, unknown info from data and using it to make proactive knowledge driven business is called
+Data mining  --  Correct
+
+**********************************************************************************************************************************
+
+What is the other name for Data Preparation stage of Knowledge Discovery Process?
+ETL  --  Correct
+
+Which of the following role is responsible for performing validation on analysis datasets?
+Statisticians  --  Correct
+
+Which of the following activities is performed as part of data pre processing?
+Detect Missing Values  --  Correct
+
+Which of the following modelling type should be used for Labelled data?
+Predictive Modelling  --  Correct
+
+Noisy values are the values that are valid for the dataset, but are incorrectly recorded
+True  --  Correct
+
+**********************************************************************************************************************************
+
+Which statistical technique deals with finding a structure in a collection of unlabeled data?
+Clustering  --  Correct
+
+Probability of theft in an area is 0.03 with expected loss of 20% or 30% of things with probabilities 0.55 and 0.45. Insurance policy from A costs $150 pa with 100% repayment. Policy with B, costs $100 pa and first $500 of any loss has to be paid by the owner. Which data mining technique can be used to choose the policy?
+Decision Tree  --  Correct
+
+What is the type of learning where a function is inferred to describe hidden structure from unlabeled data
+Unsupervised Learning  --  Correct
+
+Statistical technique used for investigating and modelling the relationship between two or more variables is:
+Regression analysis  --  Correct
+
+If time is used as an independent variable in a simple linear regression analysis, which of the following assumptions could be violated?
+Successive observations of the dependent variable are uncorrelated  --  Correct
+
+**********************************************************************************************************************************
+
+Machine learning task of inferring a function from labelled training data is known as
+Supervised Learning  --  Correct
+
+Which is the statistical technique used for investigating and modelling the relationship between two or more variables?
+Regression analysis  --  Correct
+
+Regression is typically carried out to develop a mathematical model of the process
+True  --  Correct
+
+Associate rule is known as _____________
+Affinity analysis  --  Correct
+
+Which data mining method groups together objects that are similar to each other and dissimilar to the other objects?
+Clustering  --  Correct
+
+Which of the following activities are performed as part of data pre processing?
+All the options  --  Correct
+
+Which of the following are Multi-class Classification problem?
+Should we gift a book or a Gift card? , Will it be a Rainy day or Sunny day tomorrow? --  Wrong
+
+
+_________ are the values that mark the boundaries of the confidence interval.
+Confidence limits  --  Correct
+
+The process of extracting valid, useful, unknown info from data to make proactive knowledge driven business is called
+Data mining  --  Correct
+
+Simulations are carried out to develop a mathematical model of the process
+False  --  Correct

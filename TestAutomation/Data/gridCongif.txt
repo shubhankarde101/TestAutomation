@@ -1,0 +1,23 @@
+Node Configuration
+
+C:\Users\Subho\Documents\seleniumjar
+
+java -Dwebdriver.chrome.driver="C:\Users\Subho\Desktop\New folder\Test Automation\TestAutomation\exe\chromedriver.exe" -jar selenium-server-standalone-3.141.59.jar -role node -hub http://192.168.1.4:4444/grid/register -port 5657
+
+
+Hub Confuration
+
+java -jar selenium-server-standalone-3.141.59.jar -role hub
+
+How to run Selenium Grid using Maven command line
+
+steps:-
+
+1. Configure grid (node and hub)
+2. Configure Maven (using environment variables 'M2_Home' and path)
+3. For the above two processes 3 command lines must be opened
+4. Create a TestNG class and write test cases and code to invoke remote webdriver
+5. Convert this TestNG class to testng.xml using eclipse
+6. Now go to Pom.xml and add <suiteXmlFiles><suiteXmlFile>testng.xml</suiteXmlFile></suiteXmlFiles> within maven surefire plugin
+7. Go to command prompt and use command mvn clean install 
+8. Test will be running in node invoked from maven command line

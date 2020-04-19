@@ -1,0 +1,105 @@
+Based on the hands on card “ OLS in Python Statsmodels” What is the value of the estimated coef for variable RM ?
+9.1021  --  Correct
+
+Based on the hands on card “ OLS in Python Statsmodels”What is the value of the constant term ?
+-34.6706  --  Correct
+
+Based on the hands on card “ OLS in Python Statsmodels” What is the adjusted R sq value ?
+0.483  --  Correct
+
+Based on the hands on card “ OLS in Python Statsmodels” What is the value of R sq ?
+0.484  --  Correct
+
+Based on the hands on card “ OLS in Python Statsmodels” How many observations are there in the dataset ?
+506  --  Correct
+
+************************************************************************************************************************
+
+Based on the hands on card “MLR Hands On” Perform a correlation among all the independent variables . What is the correlation between variables NOX and DIS ?
+-0.76923  --  Correct
+
+Based on the hands on card “MLR Hands On” What is the P>|t| value for the 'INDUS' variable ?
+0.731  --  Correct
+
+Based on the hands on card “MLR Hands On” What is the standard error for the constant term ?
+5.104  --  Correct
+
+Based on the hands on card “MLR Hands On” What is the value of the estimated coef for the constant term ?
+36.4911  --  Correct
+
+Based on the hands on card “MLR Hands On” what is the value of R sq ?
+0.741  --  Correct
+
+************************************************************************************************************************
+
+Regression can show causal relationship between two variables.
+False  --  Correct
+
+In Multi Variable regression you predict one variable using more than one variable
+True  --  Correct
+
+The SSE depends on the number of observations in the data set
+True  --  Correct
+
+__________ means predicting one variable from another.
+Regress  --  Correct
+
+What is the process of removing the mean and dividing the value by the standard deviation
+Standatdization  --  Correct
+
+__________ is a unit less quantity
+R Square  --  Correct
+
+When two or more variables are correlated in a Multiple Regression Model , it is called as ____________
+Multi Collinearity  --  Correct
+
+What is the process of rescaling the values in the range [0,1]
+Normalization  --  Correct
+
+What is the formula for root means square error ?
+sqrt(SSE/n)  --  Correct
+
+It is advised to omit a term that is highly correlated with another while fitting a Multiple Regression Model
+True  --  Correct
+
+When more variables are added in Multi Variable Regression the marginal improvement decreases as each variable is added. This term is called ?
+Law of Diminishing Returns  --  Correct
+
+R Square Value can be greater than zero
+False  --  Correct
+
+Arithmetic Mean can be used as a prediction measure.
+True  --  Correct
+
+What is the sum of standard error for the baseline model ?
+SST  --  Correct
+
+SSE is _________ for the Line of Best Fit and _______ for the baseline model
+Small , Big  --  Correct
+
+It is advised to go for a simpler model while fitting multiple regression for a dataset
+True  --  Correct
+
+What is the term that represents the difference between actual and predicted value called ?
+Residual  --  Correct
+
+What is the basic property of the model of best fit ?
+Minimize Error  --  Correct
+
+By adding multiple variables in Multi Variable Regression , the model accuracy _____________
+Increases  --  Correct
+
+Sum of Squared error is a measure of standard for a Regression Line
+True  --  Correct
+
+What is the good range of correlation values to include in the regression model
+-0.7 to + 0.7  --  Correct
+
+What is the quantity that measures the strength of relationship between two variables ?
+Correlation  --  Correct
+
+pr(>|t|) term signifies how likely the estimated value is zero
+True  --  Correct
+
+It is OK to discard theoretical considerations for Statistical Measures
+False  --  Correct
