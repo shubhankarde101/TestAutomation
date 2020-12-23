@@ -1,0 +1,165 @@
+//*****TCS Internal*******
+************************* Azure Management Tools ********************************************************************************
+
+Which cloud offering focuses on the consumption of services?
+SaaS  ---  Correct
+
+Which of the following statements are correct?
+All the options mentioned  --  Correct
+
+Which one of the following serives is a NoSQL datastore?
+Tables  --  Correct
+
+You can view the latest data center map and Pay as You Go subscription information in (the) ?
+Azure Dash Board  ---  Correct
+
+In which operating system, we can use Azure PowerShell?
+Windows OS  ---  Correct
+
+Azure is Microsoft’s ___ as a Service Web hosting service.
+Infrastructure  ---  Correct
+
+In which operating system, we can use Azure CLI?
+All the options mentioned  ---  Correct
+
+High available applications are .
+All the options mentioned  --  Correct
+
+When using Azure Resource Manager, you can use a _______________ for deployment, which can build identical environments for different work scenarios such as testing, staging, and production.
+Template  ---   Correct
+
+The new Azure Portal is accessed using ___________.
+https:\\portal.azure.com   ---  Correct
+
+If you have to replace your current on-premise services in the form of virtual machines, then you can use Microsoft Azure cloud categorized as .
+IAAS   ---  Correct
+
+Which of the following is the older service management model, where cloud services contain your cloud resources?
+Classic Portal  ---  Correct
+
+************************* Azure Network Services ********************************************************************************
+
+Default Private IP address allocation method is _.
+dynamic  --  Correct
+
+When should you use a static IP address?
+DNS Server  ---  Correct
+
+Microsoft uses industry standard _______________ dynamic routing protocol to exchange routes between your on-premises network, your instances in Azure, and Microsoft public addresses.
+EGP   ---  Correct
+
+A subnet is a range of IP addresses in a __.
+VNet  ---  Correct
+
+Which connection configuration offers faster speeds, higher security, lower latencies and higher reliability?
+ExpressRoute  ---  Correct
+
+Which Azure networking component is the core unit from which administrators can have full control over IP address assignments, name resolution, security settings, and routing rules?
+Which Azure networking component is the core unit, from which administrators can have full control over IP address assignments, name resolution, security settings and routing rules?
+Virtual Networks (VNETs)  --  Correct
+Virtual Networks (VNETs)  --  Correct
+
+_______________ is used to route the traffic between virtual machines inside your pirvate virtual network.
+Azure Internal Load Balancers  --  Correct
+
+ExpressRoute connections enable access to the _________.
+All of the mentioned   --  Correct
+
+************************* Azure Compute Services ********************************************************************************
+
+Which of the following Windows Server roles is not supported on Azure Virtual Machines?
+Hyper-v  --  Correct
+
+The smallest recommended virtual machine size in Azure for a production environment is:
+A1  --  Correct
+
+Azure supports both .vhd and .vhdx file formats for Virtual Machines.
+False  --  Correct
+
+To how many resource groups can a resource be added?
+1  ---  Correct
+
+The VM size determines the number of __.
+Nic  ---  correct
+
+Which of the following helps Azure maintain high availability and fault tolerance when deploying and upgrading applications.
+Availability set  --  correct
+
+You need to deploy a virtual machine on Azure with a low memory entry level requirement. Which virtual machine sizes should you consider choosing?
+BasicA0- BasicA4
+
+You can estimate costs you will incur on Azure by using which tool?
+Pricing Calculator --  Correct.
+
+Most types of resource can be moved to a different resource group at _______
+Anytime  --  Correct
+
+Azure Virtual Machines only support VM's running Microsoft Windows operating system.
+False  --  Correct
+
+************************* Azure Storage Services & Azure Database Services*****************************************************
+
+Your Azure storage account is always replicated to ensure durability and high availability. By default, which of the following replications schemes is used?
+RA-GRS  --  Correct
+
+In which type of Storage replication, data is not replicated across multiple datacenters?
+LRS  --  Correct
+
+What type of storage account is backed by magnetic drives and provides the lowest cost per GB?
+Standard  --  Correct
+
+The maximum size for a file share is 5 TBs.
+True  -- Correct
+
+Premium storage disks for virtual machines support up to 64 TBs of storage.
+True  --  Correct
+
+Geo-replication is enabled by default in Windows Azure Storage.
+Yes  --  Correct
+
+If you choose this redundancy strategy, you cannot convert to another redundancy strategy without creating a new storage account and copying the data to the account.
+ZRS  --  Correct
+
+Which type of storage offering uses SSDs and is intended for use with Virtual machines?
+Premium  --  Correct
+
+You add a data disk to an Azure virtual machine. What drive type is created?
+SCSI  --  Correct
+
+Geo Redundancy is to provide high availability in .
+Geographically  --  Correct
+
+************************* Azure App Services & Azure Analytics and IOT & Other Azure Services************************************
+
+Which of the following statements is correct?
+All the options mentioned
+
+Azure data is replicated times for data protection and writes are checked for consistency.
+three  --  Correct
+
+What VPN types are supported by Azure?
+All the options  --  Correct
+
+What VM series should you consider, if you want host applications that require high-performance IO for persisted data?
+D-series  --  Wrong
+
+Which of the following individual components are included on HDInsight clusters?
+All the options mentioned  --  Correct
+
+Is it possible to create a custom Domain name, or use your organizations domain name, such as fresco.com, in Azure Active Directory?
+True  --  Correct
+ 
+Microsoft Azure Active Directory can be integrated with on-premises Active Directory to allow single sign-on.
+True  --  Correct
+
+What is the format of an Azure Resource Template
+JSON  --  Correct
+
+Microsoft and Hortonworks joined their forces to make Hadoop available on ___ for on-premise deployments
+Windows Server  --  Correct
+
+To delegate administrative tasks for specific resource groups in Azure which functionality should be used?
+Role based access control  --  Correct
+
+A VM can have multiple associated IP addresses. Which of the following are possible IP addresses associated with a VM?
+All of the above.  --  Correct

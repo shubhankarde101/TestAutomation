@@ -1,0 +1,47 @@
+2020-10-05 19:09:48,912 INFO  [Google_Ad_Search] -----------------------Test Started--------------------- 
+2020-10-05 19:09:48,915 INFO  [Google_Ad_Search] Setting up the driver 
+2020-10-05 19:10:03,148 INFO  [Google_Ad_Search] Initializing Page Object 
+2020-10-05 19:10:03,309 INFO  [Google_Ad_Search] Opening the URL 
+2020-10-05 19:10:07,792 INFO  [Google_Ad_Search] Page title validated 
+2020-10-05 19:10:12,630 INFO  [Google_Ad_Search] ---------------------------- 
+2020-10-05 19:10:12,631 INFO  [Google_Ad_Search] Page 1 traversed 
+2020-10-05 19:10:14,344 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-10-05 19:10:14,534 INFO  [Google_Ad_Search] Ad Context is: Policybazaar.com - Compare Insurance Policies 
+2020-10-05 19:10:14,536 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-10-05 19:10:14,537 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-10-05 19:10:20,640 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-10-05 19:10:21,388 INFO  [Google_Ad_Search] ---------------------------- 
+2020-10-05 19:10:21,389 INFO  [Google_Ad_Search] Page 2 traversed 
+2020-10-05 19:10:21,864 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-10-05 19:10:21,994 INFO  [Google_Ad_Search] Ad Context is: Policybazaar.com - Compare Insurance Policies 
+2020-10-05 19:10:21,995 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-10-05 19:10:21,995 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-10-05 19:10:27,288 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-10-05 19:10:30,083 INFO  [Google_Ad_Search] ---------------------------- 
+2020-10-05 19:10:30,084 INFO  [Google_Ad_Search] Page 3 traversed 
+2020-10-05 19:10:30,676 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-10-05 19:10:31,510 INFO  [Google_Ad_Search] Ad Context is: PolicyBazaar.com - Compare Insurance Policies 
+2020-10-05 19:10:31,512 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-10-05 19:10:31,512 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-10-05 19:10:38,079 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-10-05 19:10:38,571 INFO  [Google_Ad_Search] Ad Url is: www.izito.co.in/top_10/now 
+2020-10-05 19:10:38,796 INFO  [Google_Ad_Search] Ad Context is: Health Insurances Plans - Search Health Insurances Plans 
+2020-10-05 19:10:38,798 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-10-05 19:10:41,759 INFO  [Google_Ad_Search] ---------------------------- 
+2020-10-05 19:10:41,760 INFO  [Google_Ad_Search] Page 4 traversed 
+2020-10-05 19:10:42,538 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-10-05 19:10:42,754 INFO  [Google_Ad_Search] Ad Context is: PolicyBazaar.com - Compare Insurance Policies 
+2020-10-05 19:10:42,755 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-10-05 19:10:42,755 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-10-05 19:10:48,772 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-10-05 19:10:52,513 INFO  [Google_Ad_Search] ---------------------------- 
+2020-10-05 19:10:52,514 INFO  [Google_Ad_Search] Page 5 traversed 
+2020-10-05 19:10:53,200 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-10-05 19:10:53,402 INFO  [Google_Ad_Search] Ad Context is: PolicyBazaar.com - Compare Insurance Policies 
+2020-10-05 19:10:53,403 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-10-05 19:10:53,403 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-10-05 19:10:58,809 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-10-05 19:11:01,879 INFO  [Google_Ad_Search] ---------------------------- 
+2020-10-05 19:11:01,880 INFO  [Google_Ad_Search] Page 6 traversed 
+2020-10-05 19:11:04,033 INFO  [Google_Ad_Search] Adding the Pojo to Json 
+2020-10-05 19:11:05,950 INFO  [Google_Ad_Search] Driver closed 

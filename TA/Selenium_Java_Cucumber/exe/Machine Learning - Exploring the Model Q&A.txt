@@ -1,0 +1,38 @@
+What is the process of dividing each feature by its range called ?
+Feature Scaling  --  Correct
+
+Input variables are also known as feature variables.
+True  --  Correct  
+
+Output variables are known as Feature Variables .
+False  --  Correct
+
+____________ controls the magnitude of a step taken during Gradient Descent .
+Learning Rate  --  Correct
+
+The objective function for linear regression is also known as Cost Function.
+True  --  Correct
+
+What is the process of subtracting the mean of each variable from its variable called ?
+Mean Normalization  --  Correct
+
+For different parameters of the hypothesis function we get the same hypothesis function.
+False  --  Correct
+
+How are the parameters updates during Gradient Descent Process ?
+Simultaneously  --  Correct
+
+The result of scaling is a variable in the range of [1 , 10].
+False  --  Correct
+
+What is the Learning Technique in which the right answer is given for each example in the data called ?
+Supervised Learning  --  Correct
+
+Problems that predict real values outputs are called ?
+Regression Problems  --  Correct
+
+Cost function in linear regression is also called squared error function.
+True  --  Correct
+
+What is the name of the function that takes the input and maps it to the output variable called ?
+Hypothesis Function  --  Correct
