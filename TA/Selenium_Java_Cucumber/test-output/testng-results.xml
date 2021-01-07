@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="85336" started-at="2018-12-22T17:24:29Z" finished-at="2018-12-22T17:25:54Z">
+  <suite name="Default suite" duration-ms="23934" started-at="2021-01-04T11:03:39Z" finished-at="2021-01-04T11:04:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="85336" started-at="2018-12-22T17:24:29Z" finished-at="2018-12-22T17:25:54Z">
-      <class name="com.automation.utilities.SeleniumGrid">
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.automation.utilities.SeleniumGrid@271053e1]" name="setUpTest" is-config="true" duration-ms="28203" started-at="2018-12-22T22:54:29Z" finished-at="2018-12-22T22:54:57Z">
+    <test name="Default test" duration-ms="23934" started-at="2021-01-04T11:03:39Z" finished-at="2021-01-04T11:04:03Z">
+      <class name="com.automation.utilities.ExcelHandle">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.automation.utilities.ExcelHandle@5c6648b0]" name="setUpTest" is-config="true" duration-ms="9014" started-at="2021-01-04T16:33:39Z" finished-at="2021-01-04T16:33:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="googleSearch1()[pri:0, instance:com.automation.utilities.SeleniumGrid@271053e1]" name="googleSearch1" duration-ms="56282" started-at="2018-12-22T22:54:58Z" finished-at="2018-12-22T22:55:54Z">
+        <test-method status="PASS" signature="googleSearch1()[pri:0, instance:com.automation.utilities.ExcelHandle@5c6648b0]" name="googleSearch1" duration-ms="13719" started-at="2021-01-04T16:33:48Z" finished-at="2021-01-04T16:34:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleSearch1 -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.automation.utilities.SeleniumGrid@271053e1]" name="TearDown" is-config="true" duration-ms="173" started-at="2018-12-22T22:55:54Z" finished-at="2018-12-22T22:55:54Z">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.automation.utilities.ExcelHandle@5c6648b0]" name="TearDown" is-config="true" duration-ms="1112" started-at="2021-01-04T16:34:02Z" finished-at="2021-01-04T16:34:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-      </class> <!-- com.automation.utilities.SeleniumGrid -->
+      </class> <!-- com.automation.utilities.ExcelHandle -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

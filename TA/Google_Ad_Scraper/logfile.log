@@ -45,3 +45,66 @@
 2020-10-05 19:11:01,880 INFO  [Google_Ad_Search] Page 6 traversed 
 2020-10-05 19:11:04,033 INFO  [Google_Ad_Search] Adding the Pojo to Json 
 2020-10-05 19:11:05,950 INFO  [Google_Ad_Search] Driver closed 
+2020-12-27 20:14:52,565 INFO  [Google_Ad_Search] -----------------------Test Started--------------------- 
+2020-12-27 20:14:52,568 INFO  [Google_Ad_Search] Setting up the driver 
+2020-12-27 20:15:54,661 INFO  [Google_Ad_Search] Initializing Page Object 
+2020-12-27 20:15:55,159 INFO  [Google_Ad_Search] Opening the URL 
+2020-12-27 20:16:01,660 INFO  [Google_Ad_Search] Page title validated 
+2020-12-27 20:16:08,579 INFO  [Google_Ad_Search] ---------------------------- 
+2020-12-27 20:16:08,579 INFO  [Google_Ad_Search] Page 1 traversed 
+2020-12-27 20:16:09,539 INFO  [Google_Ad_Search] Adding the Pojo to Json 
+2020-12-27 20:16:12,480 INFO  [Google_Ad_Search] Driver closed 
+2020-12-27 21:59:14,693 INFO  [Google_Ad_Search] -----------------------Test Started--------------------- 
+2020-12-27 21:59:14,694 INFO  [Google_Ad_Search] Setting up the driver 
+2020-12-27 21:59:45,003 INFO  [Google_Ad_Search] Initializing Page Object 
+2020-12-27 21:59:45,634 INFO  [Google_Ad_Search] Opening the URL 
+2020-12-27 21:59:58,100 INFO  [Google_Ad_Search] Page title validated 
+2020-12-27 22:00:09,063 INFO  [Google_Ad_Search] ---------------------------- 
+2020-12-27 22:00:09,064 INFO  [Google_Ad_Search] Page 1 traversed 
+2020-12-27 22:00:09,791 INFO  [Google_Ad_Search] Ad Url is: www.acko.com/ 
+2020-12-27 22:00:10,001 INFO  [Google_Ad_Search] Ad Context is: Car Insurance Policy Online - Save Up to 85% Off* on Premium 
+2020-12-27 22:00:10,003 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:10,507 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-12-27 22:00:10,705 INFO  [Google_Ad_Search] Ad Context is: Compare & Buy Insurance Plans - Compare Insurance Policies 
+2020-12-27 22:00:10,706 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:10,706 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-12-27 22:00:21,112 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-12-27 22:00:21,719 INFO  [Google_Ad_Search] ---------------------------- 
+2020-12-27 22:00:21,720 INFO  [Google_Ad_Search] Page 2 traversed 
+2020-12-27 22:00:22,187 INFO  [Google_Ad_Search] Ad Url is: www.acko.com/ 
+2020-12-27 22:00:22,316 INFO  [Google_Ad_Search] Ad Context is: Car Insurance Policy Online - Save Up to 85% Off* on Premium 
+2020-12-27 22:00:22,317 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:22,660 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-12-27 22:00:22,796 INFO  [Google_Ad_Search] Ad Context is: Compare & Buy Insurance Plans - Compare Insurance Policies 
+2020-12-27 22:00:22,797 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:22,798 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-12-27 22:00:30,403 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-12-27 22:00:32,437 INFO  [Google_Ad_Search] ---------------------------- 
+2020-12-27 22:00:32,438 INFO  [Google_Ad_Search] Page 3 traversed 
+2020-12-27 22:00:33,888 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-12-27 22:00:34,126 INFO  [Google_Ad_Search] Ad Context is: Policybazaar.com - Compare Insurance Policies 
+2020-12-27 22:00:34,128 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:34,128 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-12-27 22:00:40,562 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-12-27 22:00:41,015 INFO  [Google_Ad_Search] Ad Url is: www.acko.com/ 
+2020-12-27 22:00:41,156 INFO  [Google_Ad_Search] Ad Context is: Compare Car Policy Online - Save Up to 85% Off* on Premium 
+2020-12-27 22:00:41,157 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:44,693 INFO  [Google_Ad_Search] ---------------------------- 
+2020-12-27 22:00:44,693 INFO  [Google_Ad_Search] Page 4 traversed 
+2020-12-27 22:00:45,402 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-12-27 22:00:45,596 INFO  [Google_Ad_Search] Ad Context is: Policybazaar.com - Compare Insurance Policies 
+2020-12-27 22:00:45,598 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:45,598 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-12-27 22:00:52,092 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-12-27 22:00:52,425 INFO  [Google_Ad_Search] Ad Url is: www.acko.com/ 
+2020-12-27 22:00:52,553 INFO  [Google_Ad_Search] Ad Context is: Insure Your Car In Just 1 Min - Get Upto 85% Off* On Premium 
+2020-12-27 22:00:52,554 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:55,014 INFO  [Google_Ad_Search] ---------------------------- 
+2020-12-27 22:00:55,015 INFO  [Google_Ad_Search] Page 5 traversed 
+2020-12-27 22:00:55,724 INFO  [Google_Ad_Search] Ad Url is: www.policybazaar.com/ 
+2020-12-27 22:00:55,912 INFO  [Google_Ad_Search] Ad Context is: Policybazaar.com - Compare Insurance Policies 
+2020-12-27 22:00:55,913 INFO  [Google_Ad_Search] Regex is : \w+\.policybazaar\.\w+\/ 
+2020-12-27 22:00:55,913 INFO  [Google_Ad_Search] Matched the given Regex, so opening the Ad Url 
+2020-12-27 22:01:02,092 INFO  [Google_Ad_Search] Navigated back to the search page 
+2020-12-27 22:01:03,427 INFO  [Google_Ad_Search] Adding the Pojo to Json 
+2020-12-27 22:01:06,693 INFO  [Google_Ad_Search] Driver closed 

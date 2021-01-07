@@ -1,0 +1,15 @@
+{
+  "name": "DreamLandAcademy",
+  "type": "Educational Institute",
+  "address": "Barrackpore",
+  "address2": "North 24 PGS",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "zip": "700122",
+  "lat": 5,
+  "lng": 6,
+  "hours": "Eight",
+  "services":
+         {"name":"Beautician", "CourseType":"Regular"}
+       
+} 

@@ -18,6 +18,9 @@ public class LoginPage {
 	@FindBy(how=How.XPATH, using="//input[@id='u_0_e']")
 	public WebElement Female;
 	
+	@FindBy(xpath=".//button[@name='login']")
+	public WebElement btnLogin;
+	
 	public By getDay()
 	{
 		By Day = By.xpath("//select[@id='day']");

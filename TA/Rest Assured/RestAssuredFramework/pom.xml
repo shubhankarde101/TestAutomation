@@ -1,11 +1,13 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>RestAssuredFramework</groupId>
-  <artifactId>RestAssuredFramework</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  
-  <dependencies>
-  
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>RestAssuredFramework</groupId>
+	<artifactId>RestAssuredFramework</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
+
 		<!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
 		<dependency>
 			<groupId>dom4j</groupId>
@@ -13,21 +15,16 @@
 			<version>1.6.1</version>
 		</dependency>
 
-<!-- 
+		<!-- <dependency> <groupId>io.rest-assured</groupId> <artifactId>json-schema-validator</artifactId> 
+			<version>4.3.0</version> </dependency> -->
+
+		<!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
 		<dependency>
-			<groupId>io.rest-assured</groupId>
-			<artifactId>json-schema-validator</artifactId>
-			<version>4.3.0</version>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>25.0-jre</version>
 		</dependency>
- -->
- 
- 	<!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
-<dependency>
-    <groupId>com.google.guava</groupId>
-    <artifactId>guava</artifactId>
-    <version>25.0-jre</version>
-</dependency>
- 	
+
 
 
 		<!-- https://mvnrepository.com/artifact/com.jayway.jsonpath/json-path -->

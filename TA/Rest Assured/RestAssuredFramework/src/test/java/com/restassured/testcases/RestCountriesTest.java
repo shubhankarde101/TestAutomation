@@ -24,7 +24,7 @@ public class RestCountriesTest extends BaseTest{
 	 * There should be a test case matching this test name in RUNMANAGER and TESTDATA sheet
 	 * If there are multiple data lines in TESTDATA sheet, it will treated as iteration
 	 * Mark Yes in RUNMANAGER and TESTDATA to run this test case
-	 * @author Amuthan Sakthivel
+	 * @author Shubhankar
 	 */
 	
 	

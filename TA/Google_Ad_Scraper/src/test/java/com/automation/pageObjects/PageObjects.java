@@ -18,17 +18,17 @@ public class PageObjects {
 	@FindBy(how = How.XPATH, using = ".//div[@role='heading']//following-sibling::div//*[normalize-space(text())='Ad']")
 	public List<WebElement> label_Google_Ad;	
 	
-	@FindBy(how = How.XPATH, using = ".//table[@role='presentation']//a")
-	public List<WebElement> links_Google_Page_Navigation;
+	@FindBy(how = How.XPATH, using = ".//a/span[.='Next']")
+	public WebElement links_Google_Page_Navigation;
 	
 	public By get_Ad_Url()
 	{
-		return By.xpath(".//following-sibling::span//*[contains(normalize-space(text()),'www')]");
+		return By.xpath(".//parent::div/span[2]");
 		
 	}	
 	public By get_Ad_Context()
 	{
-		return By.xpath(".//parent::div//preceding-sibling::div/span");
+		return By.xpath(".//ancestor::a/div[@role='heading']");
 		
 	}
 	

@@ -1,19 +1,28 @@
 [ {
+  "ad_Url" : "www.acko.com/",
+  "ad_Context" : "Car Insurance Policy Online - Save Up to 85% Off* on Premium"
+}, {
   "ad_Url" : "www.policybazaar.com/",
-  "ad_Context" : "Policybazaar.com - Compare Insurance Policies"
+  "ad_Context" : "Compare & Buy Insurance Plans - Compare Insurance Policies"
+}, {
+  "ad_Url" : "www.acko.com/",
+  "ad_Context" : "Car Insurance Policy Online - Save Up to 85% Off* on Premium"
+}, {
+  "ad_Url" : "www.policybazaar.com/",
+  "ad_Context" : "Compare & Buy Insurance Plans - Compare Insurance Policies"
 }, {
   "ad_Url" : "www.policybazaar.com/",
   "ad_Context" : "Policybazaar.com - Compare Insurance Policies"
 }, {
-  "ad_Url" : "www.policybazaar.com/",
-  "ad_Context" : "PolicyBazaar.com - Compare Insurance Policies"
-}, {
-  "ad_Url" : "www.izito.co.in/top_10/now",
-  "ad_Context" : "Health Insurances Plans - Search Health Insurances Plans"
+  "ad_Url" : "www.acko.com/",
+  "ad_Context" : "Compare Car Policy Online - Save Up to 85% Off* on Premium"
 }, {
   "ad_Url" : "www.policybazaar.com/",
-  "ad_Context" : "PolicyBazaar.com - Compare Insurance Policies"
+  "ad_Context" : "Policybazaar.com - Compare Insurance Policies"
+}, {
+  "ad_Url" : "www.acko.com/",
+  "ad_Context" : "Insure Your Car In Just 1 Min - Get Upto 85% Off* On Premium"
 }, {
   "ad_Url" : "www.policybazaar.com/",
-  "ad_Context" : "PolicyBazaar.com - Compare Insurance Policies"
+  "ad_Context" : "Policybazaar.com - Compare Insurance Policies"
 } ]

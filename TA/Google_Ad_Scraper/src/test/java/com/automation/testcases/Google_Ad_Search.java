@@ -80,14 +80,14 @@ public class Google_Ad_Search extends ActionMethods {
 			po.input_GoogleSearch.sendKeys(Keys.ENTER);
 			sync(driver, po.lbl_SrchResultStatus);
 			int attempt = Integer.parseInt(readProperty("Page_Iterations"));
-			for (int i = 1; i <= attempt; i++) {
+			for (int i = 1; i < attempt; i++) {
 
 				takeSnapShot(driver, "Srch_Results_" + i);
 				Log.info("----------------------------");
 				Log.info("Page " + i + " traversed");
 				captureAdDetails(driver);
 				if (i > 1) {
-					click(po.links_Google_Page_Navigation.get(i));
+					click(po.links_Google_Page_Navigation);
 				}
 			}
 

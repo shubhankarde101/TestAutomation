@@ -64,10 +64,7 @@ public class BaseTest {
 		
 		writer = new StringWriter();
 		captor = new PrintStream(new WriterOutputStream(writer), true);
-	}
-
-	
-	
+	}	
 	/*
 	 * This might not be applied/used in the project.
 	 * Provided as an sample to handle OAUTH scenarios and to handle x-www-form-urlencoded content type.
@@ -91,12 +88,7 @@ public class BaseTest {
 
 		System.out.println("OAUTH is success");
 	}
-
-	/*
-	 * Format the api string and log in Extent Report
-	 * @author : Amuthan Sakthivel
-	 * @param  : apicontent
-	 */
+	
 	protected void formatAPIAndLogInReport(String content) {
 
 		String prettyPrint = content.replace("\n", "<br>");

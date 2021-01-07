@@ -104,7 +104,9 @@ public class TestUtils {
 	 * return last row number of the sheet
 	 */
 	public static int getLastRowNum(String sheetname) {
-		return workbook.getSheet(sheetname).getLastRowNum();
+		int x = workbook.getSheet(sheetname).getLastRowNum();
+		System.out.println("Last row number------------"+x+"----------------");
+		return x;
 	}
 
 	/*
@@ -209,11 +211,12 @@ public class TestUtils {
 	 * So the test name in the RUNMANAGER should be same as first column in TESTDATA and sheet name should also be same as
 	 * test name. 
 	 */
-	@DataProvider(name="dataProviderForIterations",parallel=false)
-	public static Object[][] supplyDataForIterations(Method m){
-		return getDataForDataprovider(Constants.EXCELPATH,Constants.TESTDATASHEETNAME,m.getName());
-	}
-
+	
+	  @DataProvider(name="dataProviderForIterations",parallel=false) public static
+	  Object[][] supplyDataForIterations(Method m){ return
+	  getDataForDataprovider(Constants.EXCELPATH,Constants.TESTDATASHEETNAME,m.
+	  getName()); }
+	  
 	/*
 	 * Finding number of iterations available for test case and return the data accordingly.
 	 * Using hashtable avoids multiple parameters entry to the test case.
@@ -225,6 +228,7 @@ public class TestUtils {
 		ArrayList<Integer> rowscount=getNumberofIterationsForATestCase(sheetname, testcasename);
 		Object[][] b=new Object[rowscount.size()][1];
 		Hashtable<String,String> table =null;
+		System.out.println("Row Count is-----------------------"+rowscount.size());
 		for(int i=1;i<=rowscount.size();i++) {
 			table=new Hashtable<String,String>();
 			for(int j=0;j<totalcolumns;j++){

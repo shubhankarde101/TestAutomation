@@ -28,8 +28,9 @@ public class AnnotationTransformer implements IAnnotationTransformer{
 			if(testMethod.getName().equalsIgnoreCase(TestUtils.testCases.get(i)))
 			{	
 				annotation.setDataProvider("dataProviderForIterations");								//sets the dataprovider to all the test methods
-				annotation.setDataProviderClass(TestUtils.class);								//sets the retry analyser for all the test cases
-				annotation.setPriority(Integer.parseInt(TestUtils.priority.get(i)));					//sets the priority for all the test cases based on the excel sheet input
+				annotation.setDataProviderClass(TestUtils.class);				                       //sets the retry analyser for all the test cases
+				
+				annotation.setPriority(Integer.parseInt(TestUtils.priority.get(i)));				   //sets the priority for all the test cases based on the excel sheet input
 				annotation.setDescription(TestUtils.testDescription.get(i)); 							//sets the description for all the test cases based on the excel sheet input
 				annotation.setInvocationCount(Integer.parseInt(TestUtils.invocationCount.get(i)));		//sets the invocation count for all the test cases based on the excel sheet input
 				if(TestUtils.runStatus.get(i).equalsIgnoreCase("no")) {

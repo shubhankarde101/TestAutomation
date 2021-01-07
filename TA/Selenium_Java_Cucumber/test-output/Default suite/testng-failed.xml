@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.automation.utilities.SeleniumGrid">
+      <class name="com.automation.utilities.ExcelHandle">
         <methods>
-          <include name="googleSearch1"/>
-          <include name="Finalize"/>
-          <include name="TearDown"/>
           <include name="setUpTest"/>
+          <include name="TearDown"/>
+          <include name="googleSearch1"/>
         </methods>
-      </class> <!-- com.automation.utilities.SeleniumGrid -->
+      </class> <!-- com.automation.utilities.ExcelHandle -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

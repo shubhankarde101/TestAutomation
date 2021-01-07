@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="112327" started-at="2020-12-27T16:29:14Z" finished-at="2020-12-27T16:31:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="112327" started-at="2020-12-27T16:29:14Z" finished-at="2020-12-27T16:31:06Z">
+      <class name="com.automation.testcases.Google_Ad_Search">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.Google_Ad_Search@3327bd23]" name="setUp" is-config="true" duration-ms="31149" started-at="2020-12-27T21:59:14Z" finished-at="2020-12-27T21:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="capture_Ad_Details()[pri:0, instance:com.automation.testcases.Google_Ad_Search@3327bd23]" name="capture_Ad_Details" duration-ms="77808" started-at="2020-12-27T21:59:45Z" finished-at="2020-12-27T22:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capture_Ad_Details -->
+        <test-method status="PASS" signature="convert_To_Json()[pri:0, instance:com.automation.testcases.Google_Ad_Search@3327bd23]" name="convert_To_Json" duration-ms="1295" started-at="2020-12-27T22:01:03Z" finished-at="2020-12-27T22:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- convert_To_Json -->
+        <test-method status="PASS" signature="tear_Down()[pri:0, instance:com.automation.testcases.Google_Ad_Search@3327bd23]" name="tear_Down" is-config="true" duration-ms="1965" started-at="2020-12-27T22:01:04Z" finished-at="2020-12-27T22:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_Down -->
+      </class> <!-- com.automation.testcases.Google_Ad_Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

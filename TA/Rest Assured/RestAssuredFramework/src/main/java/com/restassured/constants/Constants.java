@@ -33,6 +33,13 @@ public class Constants {
 	public static final String COUNTRYDETAILSBYNAME_ENDPOINT = "/rest/v2/name/{name}";
 	public static final String BESTBUY_GETPRODUCTS_ENDPOINT = "/products?$limit={limit}";
 	public static final String BESTBUY_POSTPRODUCT_ENDPOINT ="/products";
+	
+	
+	public static final String BESTBUY_GETSTORES_ENDPOINT = "/stores?$limit={limit}";
+	public static final String BESTBUY_POSTSTORES_ENDPOINT ="/stores";
+	
+	
+	
 	public static final String AUTH_ENDPOINT = "";
 	
 	//Request xml paths
