@@ -1,0 +1,156 @@
+using MySQL
+
+Ex:1
+
+Company X has a record of its customers and their orders. 
+Find the customer(s) with the highest order price for orders
+placed within 10 years of the first order (earliest order_date) in the database. 
+Print the customer name and order price. 
+If multiple records are returned, they can be in any order.
+
+
+
+SELECT C.NAME, O.PRICE
+FROM ORDERS O, CUSTOMERS C 
+WHERE O.PRICE = (
+    SELECT MAX(PRICE) 
+    FROM ORDERS 
+    WHERE ORDER_DATE >= 
+        (SELECT MIN(ORDER_DATE) FROM ORDERS) 
+    AND 
+        ORDER_DATE <= (SELECT DATE_ADD(MIN(ORDER_DATE), INTERVAL 10 YEAR) FROM ORDERS)
+) 
+AND C.ORDER_ID = O.ID limit 1 ;
+
+
+Ex:2
+
+Below are the details of the companies that trade internationally and strengthen the economy of their countries.
+Write a query to display the total exports and imports for each country and order them by country name.
+
+select c.country , ifnull(sum(t1.value), 0) as export,  ifnull(sum(t2.value),0) as imports
+from companies c left join  trade t1
+on t1.seller = c.name
+left join trade t2
+on t2.buyer = c.name
+group by c.country
+
+
+Ex:3
+
+N th highest salary(Co-Related sub query)
+
+select * from employee e1
+where n-1=(select count(distinct(salary)) from employee e2
+            where e2.salary>e1.salary)
+
+
+Ex:4
+
+Marks achieved by students in the examination are tabulated below. 
+The report should retrieve students in the top 40% scoring category.
+
+SELECT StudentId,Student_Name,Marks
+FROM
+(
+    SELECT student_marks.*, @counter := @counter +1 as counter
+    FROM (select @counter:=0) R, student_marks
+    ORDER BY Marks desc
+) Buffer
+WHERE counter <= (40/100 * @counter);
+
+Ex:5
+
+A table having the records of people standing in a line for lift will be given. 
+The MAXIMUM capacity of the lift is 1000. It has the 
+
+sol 1
+
+select name from
+(select *, sum(l1.weight) over (order by turn) as t_s from line l1
+ ) t
+where t.t_s<1000
+order by turn desc limit 1
+
+sol2
+
+select name 
+from
+(select t1.*,
+  (select sum(weight) from (select * from line order by turn)   t2 where t1.turn>=t2.turn) as csum
+  from 
+  (select * from line order by turn) t1
+  order by csum) tbl
+where csum<1000
+order by turn desc
+limit 1
+
+Ex:6
+
+There are some details of the workers , their-salary,department and joining date. 
+Generate the report which should retrieve the workers drawing maximum salary in each of the departments.
+You have to fetch the workers who have maximum salary in each department. 
+The result should contain the worker's department,first name,last name and salary(Table Name: Worker)
+
+select department, concat(first_name,' ', last_name),salary from
+worker w1 where exists
+(select max(salary) as mal
+from worker w2
+group by w2.department
+having w1.salary=mal)
+
+Ex:7
+
+The sales report for the grocery shop is displayed below. 
+Generate the query to get the earliest sales date to reach 1000 sales quantity.
+You have to fetch the sales date when the aggregation of subsequent of sales quantity reaches the threshold(1000)(Table_name: Sales)
+
+select sales_date from
+(select t1.*,
+  (select sum(sales_quantity) from (select * from sales order by sales_date) t2 where t1.sales_date>=t2.sales_date) as csum
+  from 
+  (select * from sales order by sales_date) t1) t3
+  where csum >1000
+  limit 1
+
+Ex:8
+
+The sales reports for a grocery shop will be given.
+Generate a query to get the to get the dates in which the 
+sales have depreciated compared to the immediate prior date of sales.
+
+select t3.sales_date, t3.sales_quantity,t3.sales_difference from
+(
+select *,
+(select (t1.sales_quantity-t2.sales_quantity)
+from (SELECT sales.*, @counter1 := @counter1 +1 as co2
+FROM (select @counter1:=0) R1, sales
+ORDER BY sales_date) t2 
+where t1.co1=(t2.co2+1)) as sales_difference
+from 
+(SELECT sales.*, @counter2 := @counter2 +1 as co1
+FROM (select @counter2:=0) R2, sales
+ORDER BY sales_date) t1)t3
+where t3.sales_difference<0
+
+Ex:9
+
+Prepare the org chart for the employees in the company starting from the top to bottom hierarchy along with the level.
+The top most position is identified as the manger id being empty or null.
+Write a query to display the level, employee_id, first_name, last_name, manager_id in an hierarchy tree
+
+using Recursive common Table Expression in mySQL
+
+WITH RECURSIVE EmployeesR (level, employee_id, first_name, last_name, manager_id) AS
+(
+  SELECT 1 level,employee_id, first_name, last_name,manager_id
+    FROM Employees
+    WHERE manager_id IS NULL
+  UNION ALL
+  SELECT cp.level + 1, c.employee_id, c.first_name,c.last_name,c.manager_id
+    FROM EmployeesR AS cp JOIN Employees AS c
+      ON cp.employee_id = c.manager_id
+)
+SELECT * FROM EmployeesR
+ORDER BY level;
+
