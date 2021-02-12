@@ -1,0 +1,37 @@
+1. https://www.youtube.com/watch?v=82KXSli1wPA&list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk&index=5 
+
+
+2. https://stackoverflow.com/questions/54784292/adb-has-stopped-working-in-android-studio
+
+
+3. https://www.youtube.com/watch?v=N7vY3cPSo8g&list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk&index=7
+
+
+4. https://stackoverflow.com/questions/26049651/appium-unable-to-get-content-desc-attribute-data
+
+
+5. Connect phone using wireless
+Step 1 : Ensure your computer and mobile phone are connected to same wifi network
+Step 2 : Connect mobile with computer using cable
+Step 3 : On cmd run adb devices. This will list the devices connected
+Step 4 :  Now on CMD run adb tcpip 5555
+              You can use any other port also
+              You should get output like - restarting in TCP mode port: 5555
+Step 5 : Disconnect mobile cable
+
+Step 6 : Get your mobile ip - 
+              Settings - About Phone - Status
+              OR
+              Settings - WiFi - your connected network - and note down the IP address
+
+Step 7 : Run on cmd adb connect ip
+              adb connect 192.168.1.4
+
+
+6. https://stackoverflow.com/questions/42966496/how-to-install-a-specific-emulator-from-command-line-with-avdmanager
+
+
+7. https://stackoverflow.com/questions/43275238/how-to-set-system-images-path-when-creating-an-android-avd
+
+
+8. https://stackoverflow.com/questions/5533050/gitignore-exclude-folder-but-include-specific-subfolder
