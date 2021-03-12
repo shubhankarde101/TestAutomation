@@ -1,0 +1,63 @@
+What is a preferred distance measure while dealing with sets ?
+Jaccard  --  Correct
+
+Each point is a cluster in itself. We then combine the two nearest clusters into one. What type of clustering does this represent ?
+Agglomerative  --  Correct
+
+Which learning is the method of finding structure in the data without labels.
+Unsupervised  --  Correct
+
+____________ of a set of points is defined using a distance measure .
+Similarity  --  Correct
+
+Members of the same cluster are far away / distant from each other .
+False  --  Correct
+
+Unsupervised learning focuses on understanding the data and its underlying pattern.
+True  --  Correct
+
+****************************************************************************************************************
+
+___________ of two points is the average of the two points in Eucledian Space.
+Centroid  --  Correct
+
+A centroid is a valid point in a non-Eucledian space .
+False  --  Correct
+
+What is the overall complexity of the the Agglomerative Hierarchical Clustering ?
+O(N^3)  --  Correct
+
+___________ measures the goodness of a cluster
+Cohesion  --  Correct
+
+___________ is the data point that is closest to the other point in the cluster.
+Clusteroid  --  Correct
+
+The ______ is a visual representation of how the data points are merged to form clusters.
+Dendogram  --  Correct
+
+****************************************************************************************************************
+
+_____________ is when points don't move between clusters and centroids stabilize.
+Convergence  --  Correct
+
+___________ is a way of finding the k value for k means clustering.
+Cross Validation  --  Correct
+
+The number of rounds for convergence in k means clustering can be lage
+True  --  Correct
+
+Sampling is one technique to pick the initial k points in K Means Clustering
+True  --  Correct
+
+K Means algorithm assumes Eucledian Space/Distance
+True  --  Correct
+
+****************************************************************************************************************
+
+What is the R Function to divide a dataset into k clusters ?
+kclusters()  --  Wrong
+
+What is the R function to apply hierarchical clustering to a matrix of distance objects ?
+hclust()  --  Correct
+

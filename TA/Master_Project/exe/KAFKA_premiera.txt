@@ -1,0 +1,183 @@
+Kafka
+============
+
+
+Which of the following statement is incorrect ?
+
+Kafka lets scale processing and is also multisubscriber.
+
+A traditional queue based messaging system lets scale processing and is also multisubscriber.--co
+
+Queue based system lets scale processing but is not multisubscriber.
+
+In Queue based messaging system message ordering is lost during parallel processing.
+
+A hashing-based Partitioner takes ___ and generates a hash to locate which partition the message should go
+
+Partition Id
+
+Topic
+
+Partition Key--co
+
+Offset
+
+Banking industry can leverage Kafka Streams for detecting fraudulent transactions.
+
+True--co
+
+False
+
+Which messaging semantics do Kafka use to handle failure to any broker in cluster?
+
+acks--co
+
+retries
+
+bootstrap.servers
+
+key.serializer
+
+Kafka only provides a total order over records within a partition, not between different partitions in a topic.
+
+False
+
+True--co
+
+The only metadata retained on a per-consumer basis is the position of the consumer in the log, called :
+
+Chunk
+
+Offset--co
+
+Partition
+
+Replica
+
+The allows building and running reusable producers or consumers that connect Kafka topics to existing applications or data systems.
+
+Consumer API
+
+Streams API
+
+Producer API
+
+Connector API--co
+
+Each __ acts as a leader for some of its partitions and a follower for others so load is well balanced within the cluster.
+
+Topic
+
+Consumer
+
+Kafka Server--co
+
+Producer
+
+Kafka provides better ordering guarantees than a traditional messaging system using topic partitions.
+
+True--co
+
+False
+
+The only metadata retained on a per-consumer basis is the offset or position of that consumer in the log.
+
+False
+
+True--co
+
+Each record consists of a key, a value, and a .
+
+map
+
+data
+
+header
+
+timestamp--co
+
+"isr" is the set of "in-sync" replicas.
+
+False
+
+True--co
+
+Which one below is not a parameter to the Kafka cluster.ProducerRecord class constructor ?
+
+Topic--co
+
+Key
+
+Value
+
+Partition
+
+Offset
+
+Point out the wrong statement :
+
+Kafka is designed to allow a single cluster to serve as the central data backbone for a large organization.--co
+
+The Kafka cluster does not retain all published messages.
+
+A single Kafka broker can handle hundreds of megabytes of reads and writes per second from thousands of clients.
+
+Messages are persisted on disk and replicated within the cluster to prevent data loss.
+
+Kafka Streams supports both stateful and stateless operations.
+
+True--co
+
+False
+
+Which configuration in Producer API controls the criteria under which requests are considered complete?
+
+retries
+
+bootstrap.servers
+
+acks--co
+
+key.serializer
+
+Kafka can be used for which of the following :
+
+Stream Processing
+
+Log Aggregation
+
+All the options--co
+
+Website Activity Tracking
+
+Kafka stores metadata of basic information about Topics, Brokers and consumer offsets in :
+
+Consumer
+
+Kafka Cluster
+
+Broker
+
+Zookeeper ensemble--co
+
+Kafka cluster can enforce quota on requests to control the broker resources used by clients.
+
+True--co
+
+False
+
+_ data retention makes Kafka a durable system.
+
+Disk-based--co
+
+Memory-based
+
+Point out the wrong statement :
+
+Kafka is designed to allow a single cluster to serve as the central data backbone for a large organization.
+
+The Kafka cluster does not retain all published messages.--co
+
+A single Kafka broker can handle hundreds of megabytes of reads and writes per second from thousands of clients.
+
+Messages are persisted on disk and replicated within the cluster to prevent data loss.

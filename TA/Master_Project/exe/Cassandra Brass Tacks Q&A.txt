@@ -1,0 +1,212 @@
+Continuous uptime and low latency is achieved in NoSQL systems as compared to traditional relational databases.
+Yes  --  Correct
+
+Which of the following statements about NoSQL databases is true?
+Support unstructured data  --  Correct
+
+What is meant by 'Active everywhere design'?
+All nodes can be written to and read from  --  Correct
+
+Which among the following is a NoSQL db?
+All of the options mentioned  --  Correct
+
+Cassandra is not suitable for IoT applications.
+False  --  Correct
+
+Cassandra is a __________ architecture.
+peer-to-peer  --  Correct
+
+*********************************************************************************************************************
+
+Which type of data model does Cassandra use?
+Both key-value and tabular data models  --  Correct
+
+Which command can be used to list all available commands/operations in Cassandra?
+HELP  --  Correct
+
+What are ‘seed nodes’ in Apache Cassandra?
+All of the options mentioned  --  Correct
+
+A bloom filter can return __________.
+A false positive  --  Correct
+
+Which Linux flavour can be used for Cassandra Installation?
+All of the options mentioned  --  Correct
+
+Cluster can have multiple seed nodes.
+True  --  Correct
+
+SSTable resides in memory.
+False  --  Correct
+
+Java instance should be running in the machine inorder to setup Cassandra.
+Yes, java must be running in the machine  --  Correct
+
+*********************************************************************************************************************
+
+What is C-A-P, in CAP theorem?
+1) Consistency 2) Availability and 3) Partition tolerance  --  Correct
+
+What is the default partitioner in Apache Cassandra cluster?
+Murmur3Partitioner  --  Correct
+
+Pick the correct statements.
+All of the options mentioned  --  Correct
+
+Cassandra attaches a timestamp to each version of the record and uses this to merge records .
+Yes  --  Correct
+
+The simplest and the fastest read path is when the record is present in the __________.
+Row Cache  --  Correct
+
+Authorization capabilities for Cassandra use the familiar__________ security paradigm to manage object permissions.
+GRANT  --  Correct
+
+Row cache is an in-memory cache, which stores recently read rows.
+True  --  Correct
+
+To be able to read data from compressed blocks, Cassandra consults __________.
+Compression offsets  --  Correct
+
+*********************************************************************************************************************
+
+Keyspace is analogous to __________ in realtional world.
+database  --  Correct
+
+Which among the following is not a Replica Placement strategy?
+None of the options mentioned  --  Correct
+
+Is Timestamp an optional field in Column?
+True  --  Correct
+
+Pick the correct statement.
+All the options mentioned  --  Correct
+Each keyspace has at least one and often many column families.  --  Correct
+
+Which among the following is the right syntax for 'Using a Keyspace'?
+USE <identifier>  --  Correct
+
+*********************************************************************************************************************
+
+Which of the following statements is true about CQL?
+All of the options mentioned  --  Correct
+
+Defining a primary key is mandatory while creating a table.
+True  --  Correct
+
+Which Linux flavour can be used for Cassandra Installation?
+All of the options mentioned  --  Correct
+
+What is the  primary language for communicating with the Apache Cassandra™ database?
+CQL  --  Correct
+
+Pick the correct statement.
+All of the options mentioned  --  Correct
+
+Which directory contains Cassandra configuration files?
+conf  --  Correct
+
+*********************************************************************************************************************
+
+Cassandra will keep appending the records into the Commit Log and then to the memtable.
+True  --  Correct
+
+How does Murmur3Partitioner work?
+Fast hash-based partitioner  --  Correct
+
+Partitioners supported by Cassandra are __________.
+All of the options mentioned  --  Correct
+
+Which collection type in Cassandra is dictionary like object?
+Map  --  Correct
+
+Which OS does Cassandra support?
+Both Windows and Linux  --  Correct
+
+Protocol for communicating timeout info among nodes is __________.
+NTP  --  Correct
+
+What can be used to monitor clock drifts?
+NTP  --  Correct
+
+The process of turning a Memtable into a SSTable is called 
+Flushing  --  Correct
+
+What can also be attributed as wide-row in Apache Cassandra?
+Compound Key  --  Correct
+
+What is the critical bottleneck faced during creation of data model?
+Hot Spots  --  Correct
+
+User accounts may be altered and dropped using the __________ Query Language.
+Cassandra  --  Correct
+
+Which among the following is not a performance measurement tool?
+None  --  correct
+
+Partitioned data in Cassandra can be looked up using __________.
+Partition Key , Primary Key --  Wrong
+
+Which technique is used for error correction for every compressed block?
+CRC  --  Correct
+
+Each flush of the memtable results in the creation of __________.
+Sstable  --  Correct
+
+A cluster is __________.
+A collection of data centers  --  Correct
+
+Minimum JVM version required for Cassandra is __________.
+1.6  --  Correct
+
+Replication can be configured to work across __________.
+one or more Data Centers  --  Correct
+
+In Cassandra, data is first written to __________.
+Commit Log and Memtable  --  Correct
+
+What is the use of commit log?
+Crash-recovery  --  Correct
+
+Primary key is a column that is used to uniquely identify a row.
+True  --  Correct
+
+__________ is a collection of related nodes.
+Cluster , Ring  --  Wrong
+
+
+In cassandra consistency is achieved through consistency tuning mechanisms.
+True  --  Correct
+
+How does Cassandra store data?
+By dividing all data evenly around a cluster of nodes, which can be visualized as a ring.  --  Correct
+
+CQL features include __________.
+All of the options mentioned  --  Correct
+
+Which of the statements are true?
+All of the options mentioned  --  Correct
+
+Which of the following statements is true?
+All of the options mentioned  --  Correct
+
+NoSQL db - Cassandra is of type __________.
+Wide-column stores  --  Correct
+
+Which collection type is used to maintain uniqueness of data structure?
+Set  --  Correct
+
+Cassandra supports ACID transactions?
+False  --  Correct
+
+Cassandra promotes __________ operation.
+Read-before-write  --  Correct
+
+Which of the following is not part of SSTable?
+Memtable  --  Correct
+
+There are __________ types of read requests that a coordinator can send to a replica.
+3  --  Correct
+
+What percentage is the default threshold of memory used for flushing of the largest Memtables?
+75  --  Wrong

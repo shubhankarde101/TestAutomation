@@ -1,0 +1,103 @@
+Ionic Framework
+
+Which of the following is not a in-built Ionic template
+NAVIGATION
+
+Which of the following files has the ionic styles?
+ionic css
+
+Which of the following files contains all required JS files for Ionic and Angular?
+ionic.bundle.min.js
+
+Which of the following folders contains icons in Ionic?
+
+fonts
+
+Which of the following statement is not true about the IONIC framework?
+It is built on top of Cascading, Scalding, C++ and NodeJs
+
+Which of the following includes device APIs that allow accessing native device features like camera or maps?
+
+CORDOVA
+
+Which of the following classes can be used to create a button that occupies the entire width of the screen?
+
+button-block
+
+Which of the following tags display a button with rounded corners?
+both the options
+
+Which of the following classes can be used to group a set of items in a List?
+
+
+item-divider
+
+Which of the following classes can be used to create margin of certain number pixels around the list items?
+list-inset
+
+In a responsive Grid, which class, breaks the row of columns, when the window size is smaller than portrait tablet?
+
+responsive-md
+
+Which of the following CSS components are best to create a News App that displays a picture, caption with short description?
+
+Cards
+
+Which of the following classes defines the footer?
+ bar footer
+
+Which CSS component is ideal for creating top navigation for a mobile app?
+
+ tabs
+
+Ionic Grid system is responsive by default.
+
+True
+
+Which of the following components uses "CSS Flexible Box Layout"?
+grid
+
+Cards can contain
+all 
+
+Adding which of the following classes to the content, makes space for the header.
+has-header
+
+
+
+Which of the following interaction modes can be enabled by using ionList and ionItem directives?
+all(r)
+
+
+Which of the following services can be used to trigger an Action Sheet?
+$ionicActionSheet(r)
+
+Which of the following directives can be used to enable the "pull to refresh" functioality?
+ion-refresher(r)
+
+What is the ionic directive that can be used for creating a tab bar?
+ion-tabs(r)
+
+Which of the following components is a multi-page container where each page can be swiped or dragged between?
+ion-slides(r)
+
+Which of the following directives can help in using Ionic custom Scroll View, or the built in overflow scrolling of the browse?
+ion-content(r)
+
+Which of the following is a content pane that can go over the user’s main view temporarily
+Back Drop(w) Action Sheet(w)
+
+Which of the following is a slide-up pane that lets the user choose from a set of options?
+Action Sheet(r)
+
+What is the command for running an app in IOS emulator?
+ionic emulate ios(r)
+
+CLI is an extension of _________.
+Node.js(r)
+
+In Ionic CLI, which of the follow commands can be used to automatically monitor changes in the file system?
+ionic serve(r)
+
+CLI is based on _____
+CORDOVA(r)

@@ -1,0 +1,93 @@
+﻿1. The committee which designs the standards & characteristics for the cloud computing is
+	NIST
+2. Cloud-computing providers offer their services as
+	IaaS, PaaS, SaaS
+3. Developers and organizations all around the world leverage extensively
+	PaaS
+4. mixes the simplicity of ___ with the power of _____, to great effect.
+	PaaS, SaaS, IaaS
+5. I have some private servers on my premises, also I have distributed some of my workload on the public cloud, what is this architecture called?
+	Hybrid Cloud
+6. All Amazon services supports region?
+	False
+7. What are the measures to be taken to ensure maximum availability?
+	Auto Scalling in different AZs
+8. What does ARN stand for?
+	Amazon Resource Name
+9. Which is more secure?
+	VPC Security Group
+10. How can you integrate IAM with data centers security?
+	SAML
+11. Only 1024 objects can be placed on S3 bucket?
+	false
+12. Which AWS services will you use to collect and process e-commerce data for near real-time analysis?
+	Both DynemoDB and Redshift
+13. EC2 stands for
+	Elastic compute cloud
+14. How do you access data on Elastic block storage?
+	Only from an EC2
+15. Route S3 can be used to route users to infrastructure outside of AWS
+	true
+16. Objects in S3 can be delivered through Amazon CloudFront
+	true
+17. What’s the maximum size of the S3 bucket?
+	5TB
+18. What is the maximum length of a file name in S3?
+	UTF-8 1024 bytes long
+19. When to choose C4 instances?
+	High compute and Moderate Memory footprint
+20. How will you secure the data at rest in EBS?
+	restrict access using IAM that prevents write operations to the EBS
+21. Which of the following is not true about Amazon Glacier
+	Secure and durable storage for data archiving and backup
+22. Difference between instance store and EBS
+	once the instance is stopped and started, the data in instance storage is lost. Whereas, the data in EBS persists.
+23. What does S3 stand for?
+	Simple Storage Service
+24. Why do you make subnets?
+	To efficiently utilize networks that have a large no. of hosts
+25. In S3, what does RRS stand for?
+	Reduced Redundancy Storage
+26. What are the uses of Amazon Glazier?
+	access infrequent data and archive data
+27. Amazon S3 is a,
+	Key-Based object store
+28. Amazon CloudFormation is a:
+	Deployment and management service
+29. Which service in AWS allows you to create and delete stacks of AWS resources which are defined in templates?
+	CloudFormation
+30. Which of the following is not true about Elastic Load Balancing
+	Can be enabled only in a single availability zone
+31. Autoscaling is enabled through
+	CloudWatch
+32. What metrics can be monitored through cloudwatch without being charged?
+	disk, CPU, data transfer
+33. Which of the following is not correct about CloudFront?
+	CloudFront cannot serve content from a non AWS origin server
+34. Which of these services will help in better availability
+	SNS and SES
+35. How can you restrict the access to the contents delivered in cloudfront?
+	Origine Access Identity
+36. What happens when content is not present at an edge location and a request is made to it?
+	CloudFront delivers the content directly from the origin server and stores it in the cache of the edge location
+37. Which of these services are used to distribute content to end users using a global network of edge locations?
+	cloudfront
+38. A highly available and scalable domain name system web service
+	Amazon Route 53
+39. You are serving content from CloudFront. Which of the following happens to an end user's request?
+	The user's request is routed to the nearest edge location
+	
+40. Certain traditional software vendors to market solutions as “Cloud Computing” which does not actually meet the key characteristics highlighted by NIST. This phenomenon is known as
+	Cloud-washing
+41. When will you incur costs with an Elastic IP address (EIP)?
+	When it is allocated and associated with a stopped instance.
+42. What is boot time for an EBS backed instance?
+	1 minute
+43. Which is the characteristic of T2 instances?
+	High baseline Performance & Low Burst performance --------- Wrong
+44. Service that connects on-premises software appliances with cloud based storage
+	AWS Storage Gateway
+45. Which of the following can not be done using auto scaling ?
+	Maintain fixed number of running ec2 ----------- Wrong
+46. Does Amazon support region based services on all Services?
+	False

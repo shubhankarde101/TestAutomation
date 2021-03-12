@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="96868" started-at="2021-01-16T08:35:36Z" finished-at="2021-01-16T08:37:13Z">
+  <suite name="Suite" duration-ms="111481" started-at="2021-03-09T08:36:45Z" finished-at="2021-03-09T08:38:37Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="96868" started-at="2021-01-16T08:35:36Z" finished-at="2021-01-16T08:37:13Z">
+    <test name="Test" duration-ms="111481" started-at="2021-03-09T08:36:45Z" finished-at="2021-03-09T08:38:37Z">
       <class name="com.automation.testcases.Google_Ad_Search">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.Google_Ad_Search@2a3046da]" name="setUp" is-config="true" duration-ms="18535" started-at="2021-01-16T14:05:36Z" finished-at="2021-01-16T14:05:55Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.Google_Ad_Search@2a3046da]" name="setUp" is-config="true" duration-ms="18185" started-at="2021-03-09T14:06:45Z" finished-at="2021-03-09T14:07:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="capture_Ad_Details()[pri:0, instance:com.automation.testcases.Google_Ad_Search@2a3046da]" name="capture_Ad_Details" duration-ms="76197" started-at="2021-01-16T14:05:55Z" finished-at="2021-01-16T14:07:11Z">
+        <test-method status="PASS" signature="capture_Ad_Details()[pri:0, instance:com.automation.testcases.Google_Ad_Search@2a3046da]" name="capture_Ad_Details" duration-ms="89645" started-at="2021-03-09T14:07:03Z" finished-at="2021-03-09T14:08:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- capture_Ad_Details -->
-        <test-method status="PASS" signature="convert_To_Json()[pri:0, instance:com.automation.testcases.Google_Ad_Search@2a3046da]" name="convert_To_Json" duration-ms="668" started-at="2021-01-16T14:07:11Z" finished-at="2021-01-16T14:07:12Z">
+        <test-method status="PASS" signature="convert_To_Json()[pri:0, instance:com.automation.testcases.Google_Ad_Search@2a3046da]" name="convert_To_Json" duration-ms="1452" started-at="2021-03-09T14:08:33Z" finished-at="2021-03-09T14:08:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- convert_To_Json -->
-        <test-method status="PASS" signature="tear_Down()[pri:0, instance:com.automation.testcases.Google_Ad_Search@2a3046da]" name="tear_Down" is-config="true" duration-ms="1438" started-at="2021-01-16T14:07:12Z" finished-at="2021-01-16T14:07:13Z">
+        <test-method status="PASS" signature="tear_Down()[pri:0, instance:com.automation.testcases.Google_Ad_Search@2a3046da]" name="tear_Down" is-config="true" duration-ms="2176" started-at="2021-03-09T14:08:34Z" finished-at="2021-03-09T14:08:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_Down -->

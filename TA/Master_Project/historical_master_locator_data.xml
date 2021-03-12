@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <page baseUrl="Crypto Currency Info Page">
+    <element locator=".//th[.='Name']" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@role=&quot;row&quot;]//th[2]" priority="3" strategy="xpath">2021-03-12 13:58:23.661</alt>
+      <alt locator=".//th[@class=&quot;sortable sorting&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:24.037</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//th[2]" priority="3" strategy="xpath">2021-03-12 13:58:24.037</alt>
+      <alt locator=".//*[@style=&quot;width: 245px;&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:24.037</alt>
+      <alt locator=".//*[@aria-label=&quot;Name: activate to sort column ascending&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:24.037</alt>
+      <alt locator=".//*[@id=&quot;th-name&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:24.037</alt>
+      <alt locator=".//th[@aria-label=&quot;Name: activate to sort column ascending&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:24.038</alt>
+      <alt locator=".//th[@style=&quot;width: 245px;&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:24.038</alt>
+      <alt locator="//html[1]//body[1]//div[2]//div[1]//div[1]//div[4]//div[1]//div[2]//div[1]//div[1]//table[1]//thead[1]//tr[1]//th[2]" priority="3" strategy="xpath">2021-03-12 13:58:24.038</alt>
+      <alt locator=".//*[@class=&quot;sortable sorting&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:24.038</alt>
+      <alt locator=".//th[@id=&quot;th-name&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:24.039</alt>
+      <alt locator=".//th[contains(.,&quot;Name&quot;)]" priority="2" strategy="xpath">2021-03-12 13:58:24.039</alt>
+    </element>
+    <element locator=".//th[.='Market Cap']" priority="Existing" strategy="xpath">
+      <alt locator=".//tr[@role=&quot;row&quot;]//th[3]" priority="3" strategy="xpath">2021-03-12 13:58:33.392</alt>
+      <alt locator=".//th[@style=&quot;width: 111px;&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:33.392</alt>
+      <alt locator=".//*[@role=&quot;row&quot;]//th[3]" priority="3" strategy="xpath">2021-03-12 13:58:33.392</alt>
+      <alt locator=".//*[@aria-label=&quot;Market Cap: activate to sort column descending&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:33.392</alt>
+      <alt locator=".//th[@id=&quot;th-marketcap&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:33.392</alt>
+      <alt locator=".//th[@data-mobile-text=&quot;M. Cap&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:33.392</alt>
+      <alt locator=".//th[@aria-label=&quot;Market Cap: activate to sort column descending&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:33.393</alt>
+      <alt locator=".//*[@data-mobile-text=&quot;M. Cap&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:33.393</alt>
+      <alt locator=".//th[contains(.,&quot;Market Cap&quot;)]" priority="2" strategy="xpath">2021-03-12 13:58:33.393</alt>
+      <alt locator="//html[1]//body[1]//div[2]//div[1]//div[1]//div[4]//div[1]//div[2]//div[1]//div[1]//table[1]//thead[1]//tr[1]//th[3]" priority="3" strategy="xpath">2021-03-12 13:58:33.393</alt>
+      <alt locator=".//*[@style=&quot;width: 111px;&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:33.393</alt>
+      <alt locator=".//*[@id=&quot;th-marketcap&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:33.393</alt>
+    </element>
+    <element locator=".//th[.='Price']" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@aria-label=&quot;Price: activate to sort column descending&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:42.93</alt>
+      <alt locator=".//th[@aria-label=&quot;Price: activate to sort column descending&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:42.931</alt>
+      <alt locator=".//th[@id=&quot;th-price&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:42.931</alt>
+      <alt locator="//html[1]//body[1]//div[2]//div[1]//div[1]//div[4]//div[1]//div[2]//div[1]//div[1]//table[1]//thead[1]//tr[1]//th[4]" priority="3" strategy="xpath">2021-03-12 13:58:42.931</alt>
+      <alt locator=".//*[@style=&quot;width: 57px;&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:42.931</alt>
+      <alt locator=".//th[@style=&quot;width: 57px;&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:42.932</alt>
+      <alt locator=".//*[@role=&quot;row&quot;]//th[4]" priority="3" strategy="xpath">2021-03-12 13:58:42.932</alt>
+      <alt locator=".//*[@id=&quot;th-price&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:42.932</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//th[4]" priority="3" strategy="xpath">2021-03-12 13:58:42.932</alt>
+    </element>
+    <element locator=".//th[.='Circulating Supply']" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@data-mobile-text=&quot;Supply&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:52.784</alt>
+      <alt locator="//html[1]//body[1]//div[2]//div[1]//div[1]//div[4]//div[1]//div[2]//div[1]//div[1]//table[1]//thead[1]//tr[1]//th[6]" priority="3" strategy="xpath">2021-03-12 13:58:52.784</alt>
+      <alt locator=".//th[@title=&quot;The number of coins in existence available to the public&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:52.784</alt>
+      <alt locator=".//th[contains(.,&quot;Circulating Supply&quot;)]" priority="2" strategy="xpath">2021-03-12 13:58:52.784</alt>
+      <alt locator=".//*[@role=&quot;row&quot;]//th[6]" priority="3" strategy="xpath">2021-03-12 13:58:52.784</alt>
+      <alt locator=".//th[@style=&quot;width: 146px;&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:52.784</alt>
+      <alt locator=".//*[@style=&quot;width: 146px;&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:52.784</alt>
+      <alt locator=".//th[@data-mobile-text=&quot;Supply&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:52.785</alt>
+      <alt locator=".//*[@title=&quot;The number of coins in existence available to the public&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:52.785</alt>
+      <alt locator=".//*[@aria-label=&quot;Circulating Supply: activate to sort column descending&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:52.785</alt>
+      <alt locator=".//th[@id=&quot;th-totalsupply&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:52.785</alt>
+      <alt locator=".//*[@id=&quot;th-totalsupply&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:52.785</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//th[6]" priority="3" strategy="xpath">2021-03-12 13:58:52.785</alt>
+      <alt locator=".//th[@aria-label=&quot;Circulating Supply: activate to sort column descending&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:52.785</alt>
+    </element>
+    <element locator=".//td[contains(@class, 'currency')]" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@class=&quot;no-wrap currency-name&quot;]" priority="2" strategy="xpath">2021-03-12 13:58:58.054</alt>
+      <alt locator=".//*[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:58:58.055</alt>
+      <alt locator=".//td[@class=&quot;no-wrap currency-name&quot;]" priority="1" strategy="xpath">2021-03-12 13:58:58.055</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:58:58.055</alt>
+    </element>
+    <element locator=".//td[contains(@class, 'currency')]" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@class=&quot;no-wrap currency-name&quot;]" priority="2" strategy="xpath">2021-03-12 13:59:01.816</alt>
+      <alt locator=".//*[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:59:01.817</alt>
+      <alt locator=".//td[@class=&quot;no-wrap currency-name&quot;]" priority="1" strategy="xpath">2021-03-12 13:59:01.817</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:59:01.817</alt>
+    </element>
+    <element locator=".//td[contains(@class, 'currency')]" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@class=&quot;no-wrap currency-name&quot;]" priority="2" strategy="xpath">2021-03-12 13:59:06.133</alt>
+      <alt locator=".//*[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:59:06.133</alt>
+      <alt locator=".//td[@class=&quot;no-wrap currency-name&quot;]" priority="1" strategy="xpath">2021-03-12 13:59:06.134</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:59:06.134</alt>
+    </element>
+    <element locator=".//td[contains(@class, 'currency')]" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@class=&quot;no-wrap currency-name&quot;]" priority="2" strategy="xpath">2021-03-12 13:59:10.47</alt>
+      <alt locator=".//*[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:59:10.471</alt>
+      <alt locator=".//td[@class=&quot;no-wrap currency-name&quot;]" priority="1" strategy="xpath">2021-03-12 13:59:10.471</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:59:10.471</alt>
+    </element>
+    <element locator=".//td[contains(@class, 'currency')]" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@class=&quot;no-wrap currency-name&quot;]" priority="2" strategy="xpath">2021-03-12 13:59:24.705</alt>
+      <alt locator=".//*[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:59:24.705</alt>
+      <alt locator=".//td[@class=&quot;no-wrap currency-name&quot;]" priority="1" strategy="xpath">2021-03-12 13:59:24.705</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//td[2]" priority="3" strategy="xpath">2021-03-12 13:59:24.705</alt>
+    </element>
+    <element locator="//tbody//tr[.//td[contains(@class, 'positive_change')] and contains(@id,'bitcoin')]//td[count(//thead//th[.='Price']//preceding-sibling::th)+1]//a" priority="Existing" strategy="xpath"/>
+    <element locator="//tbody//tr[.//td[contains(@class, 'positive_change')] and contains(@id,'bitcoin')]//td[count(//thead//th[.='Volume (24h)']//preceding-sibling::th)+1]//a" priority="Existing" strategy="xpath"/>
+    <element locator=".//li[@class='dropdown']//a[contains(.,'Market Cap')]" priority="Existing" strategy="xpath"/>
+    <element locator=".//li[@class='dropdown open']//a[contains(.,'Market Cap')]//following-sibling::ul" priority="Existing" strategy="xpath">
+      <alt locator="//html[1]//body[1]//nav[2]//div[1]//div[2]//ul[1]//li[1]//ul[1]" priority="3" strategy="xpath">2021-03-12 13:59:51.949</alt>
+      <alt locator=".//li[@class=&quot;dropdown open&quot;]//ul[1]" priority="3" strategy="xpath">2021-03-12 13:59:51.949</alt>
+      <alt locator=".//*[@class=&quot;dropdown open&quot;]//ul[1]" priority="3" strategy="xpath">2021-03-12 13:59:51.95</alt>
+    </element>
+    <element locator=".//li[@class='dropdown']//a[contains(.,'Trade Volume')]" priority="Existing" strategy="xpath"/>
+    <element locator=".//li[@class='dropdown open']//a[contains(.,'Trade Volume')]//following-sibling::ul" priority="Existing" strategy="xpath">
+      <alt locator=".//li[@class=&quot;dropdown open&quot;]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:00.382</alt>
+      <alt locator="//html[1]//body[1]//nav[2]//div[1]//div[2]//ul[1]//li[2]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:00.383</alt>
+      <alt locator=".//*[@class=&quot;dropdown open&quot;]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:00.383</alt>
+    </element>
+    <element locator=".//li[@class='dropdown']//a[contains(.,'Trending')]" priority="Existing" strategy="xpath"/>
+    <element locator=".//li[@class='dropdown open']//a[contains(.,'Trending')]//following-sibling::ul" priority="Existing" strategy="xpath">
+      <alt locator=".//li[@class=&quot;dropdown open&quot;]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:08.575</alt>
+      <alt locator=".//*[@class=&quot;dropdown open&quot;]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:08.575</alt>
+      <alt locator="//html[1]//body[1]//nav[2]//div[1]//div[2]//ul[1]//li[3]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:08.576</alt>
+    </element>
+    <element locator=".//li[@class='dropdown']//a[contains(.,'Tools')]" priority="Existing" strategy="xpath"/>
+    <element locator=".//li[@class='dropdown open']//a[contains(.,'Tools')]//following-sibling::ul" priority="Existing" strategy="xpath">
+      <alt locator=".//li[@class=&quot;dropdown open&quot;]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:16.774</alt>
+      <alt locator=".//*[@class=&quot;dropdown open&quot;]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:16.774</alt>
+      <alt locator="//html[1]//body[1]//nav[2]//div[1]//div[2]//ul[1]//li[4]//ul[1]" priority="3" strategy="xpath">2021-03-12 14:00:16.775</alt>
+    </element>
+    <element locator=".//div[contains(@class, 'form-group') and not(contains(@class, 'bottom'))]//input" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@class=&quot;form-control quick-search-box js-quick-search tt-input&quot;]" priority="2" strategy="xpath">2021-03-12 14:00:22.288</alt>
+      <alt locator="//html[1]//body[1]//nav[2]//div[1]//div[3]//form[1]//div[1]//span[1]//span[1]//input[1]" priority="3" strategy="xpath">2021-03-12 14:00:22.289</alt>
+      <alt locator=".//input[@class=&quot;form-control quick-search-box js-quick-search tt-input&quot;]" priority="1" strategy="xpath">2021-03-12 14:00:22.289</alt>
+    </element>
+    <element locator="button#currency-switch-button" priority="Existing" strategy="css">
+      <alt locator=".//*[@class=&quot;btn btn-default dropdown-toggle&quot;]" priority="2" strategy="xpath">2021-03-12 14:00:31.161</alt>
+      <alt locator=".//*[@id=&quot;currency-switch&quot;]//button[1]" priority="3" strategy="xpath">2021-03-12 14:00:31.162</alt>
+      <alt locator="//html[1]//body[1]//div[2]//div[1]//div[1]//div[4]//div[1]//div[1]//div[1]//div[1]//button[1]" priority="3" strategy="xpath">2021-03-12 14:00:31.162</alt>
+      <alt locator=".//button[@class=&quot;btn btn-default dropdown-toggle&quot;]" priority="1" strategy="xpath">2021-03-12 14:00:31.162</alt>
+      <alt locator=".//button[@id=&quot;currency-switch-button&quot;]" priority="1" strategy="xpath">2021-03-12 14:00:31.162</alt>
+      <alt locator=".//*[@id=&quot;currency-switch-button&quot;]" priority="2" strategy="xpath">2021-03-12 14:00:31.162</alt>
+      <alt locator=".//div[@id=&quot;currency-switch&quot;]//button[1]" priority="3" strategy="xpath">2021-03-12 14:00:31.162</alt>
+    </element>
+    <element locator="div#currency-switch ul li a:not([data-fiat])" priority="Existing" strategy="css"/>
+    <element locator="//tbody//tr[.//td[contains(@class, 'positive_change')] and contains(@id,'bitcoin')]//td[count(//thead//th[.='Price']//preceding-sibling::th)+1]//a" priority="Existing" strategy="xpath"/>
+    <element locator="button#currency-switch-button" priority="Existing" strategy="css">
+      <alt locator=".//*[@class=&quot;btn btn-default dropdown-toggle&quot;]" priority="2" strategy="xpath">2021-03-12 14:00:48.749</alt>
+      <alt locator=".//button[contains(.,&quot;ETH&quot;)]" priority="2" strategy="xpath">2021-03-12 14:00:48.75</alt>
+      <alt locator=".//*[@id=&quot;currency-switch&quot;]//button[1]" priority="3" strategy="xpath">2021-03-12 14:00:48.75</alt>
+      <alt locator="//html[1]//body[1]//div[2]//div[1]//div[1]//div[4]//div[1]//div[1]//div[1]//div[1]//button[1]" priority="3" strategy="xpath">2021-03-12 14:00:48.75</alt>
+      <alt locator=".//button[@class=&quot;btn btn-default dropdown-toggle&quot;]" priority="1" strategy="xpath">2021-03-12 14:00:48.75</alt>
+      <alt locator=".//button[@id=&quot;currency-switch-button&quot;]" priority="1" strategy="xpath">2021-03-12 14:00:48.75</alt>
+      <alt locator=".//*[@id=&quot;currency-switch-button&quot;]" priority="2" strategy="xpath">2021-03-12 14:00:48.75</alt>
+      <alt locator=".//div[@id=&quot;currency-switch&quot;]//button[1]" priority="3" strategy="xpath">2021-03-12 14:00:48.751</alt>
+    </element>
+    <element locator="div#currency-switch ul li a:not([data-fiat])" priority="Existing" strategy="css"/>
+    <element locator=".//td[contains(@class, 'market-cap')]" priority="Existing" strategy="xpath">
+      <alt locator=".//*[@role=&quot;row&quot;]//td[3]" priority="3" strategy="xpath">2021-03-12 14:01:00.117</alt>
+      <alt locator=".//*[@class=&quot;no-wrap market-cap text-right&quot;]" priority="2" strategy="xpath">2021-03-12 14:01:00.118</alt>
+      <alt locator=".//td[@class=&quot;no-wrap market-cap text-right&quot;]" priority="1" strategy="xpath">2021-03-12 14:01:00.118</alt>
+      <alt locator=".//tr[@role=&quot;row&quot;]//td[3]" priority="3" strategy="xpath">2021-03-12 14:01:00.118</alt>
+    </element>
+  </page>
+</root>
