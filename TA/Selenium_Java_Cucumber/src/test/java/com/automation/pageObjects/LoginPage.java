@@ -15,11 +15,16 @@ public class LoginPage {
 	@FindBy(how = How.XPATH, using = "//input[@id='pass']")
 	public WebElement Password;
 	
-	@FindBy(how=How.XPATH, using="//input[@id='u_0_e']")
+	@FindBy(how=How.XPATH, using=".//*[.='Female']//following-sibling::input")
 	public WebElement Female;
 	
 	@FindBy(xpath=".//button[@name='login']")
 	public WebElement btnLogin;
+	
+	
+	@FindBy(xpath=".//a[.='Create New Account']")
+	public WebElement btnCreateAccount;
+	
 	
 	public By getDay()
 	{

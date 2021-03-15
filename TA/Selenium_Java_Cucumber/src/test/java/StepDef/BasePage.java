@@ -12,6 +12,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 
 import com.automation.pageObjects.LoginPage;
+import com.automation.picoContainer.Container;
 import com.automation.utilities.PropertiesFile;
 
 public class BasePage {
@@ -26,8 +27,11 @@ public class BasePage {
 	static Date date;
 	static String BrowserName = "";
 	static Properties data = null;	
+	
+	
 	BasePage()
 	{
+	 
 	 data =PropertiesFile.readPropertiesFile();
 	}
     public void loadDriver()
@@ -38,8 +42,11 @@ public class BasePage {
 	options.addArguments("--allow-insecure-websocket-from-https-origin");
 	options.addArguments("disable-extensions");		
 	driver =  new ChromeDriver(options);	
-	loginPageobj = PageFactory.initElements(driver, LoginPage.class);		
-	driver.get(data.getProperty("URL"));		
+	
+	
+	loginPageobj = PageFactory.initElements(driver, LoginPage.class);	
+	driver.get(data.getProperty("URL"));	
+	
 	driver.manage().deleteAllCookies();		
 	driver.manage().window().maximize();		
 	action = new Actions(driver);

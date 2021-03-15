@@ -1,10 +1,12 @@
 package com.automation.runner;
 
+
+
 import org.junit.runner.RunWith;
 
-import cucumber.api.CucumberOptions;
-import cucumber.api.SnippetType;
-import cucumber.api.junit.Cucumber;
+import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.CucumberOptions;
+
 
 
 @RunWith(Cucumber.class)
@@ -18,12 +20,12 @@ import cucumber.api.junit.Cucumber;
 						        },
 				 glue = {"StepDef"},strict = true,
 				   dryRun= false, //tags= {"smoke"},  
-				   monochrome = true, snippets= SnippetType.CAMELCASE)
+				   monochrome = true)
 		
 		  
 public class CucumberRunnerTest {
 		
-//     \"([^\"]*)\"
+
 		
 	 
 
