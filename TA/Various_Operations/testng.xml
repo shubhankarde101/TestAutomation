@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <listeners>
+          
+      <listener class-name="AnnotationTransformer"/>
+      <listener class-name="MethodInterceptor"/>
+      <listener class-name="Hookable"/> 
+     
+  </listeners>
+  <test thread-count="1" name="Test">
+    <classes>
+      <class name="AllTestNgListeners"/>
+       <class name="com.automation.testcases.LinkedInEmpSearch"/>
+       <class name = "AttachmentHandler.HtmlUnit_AttachmentHandle"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

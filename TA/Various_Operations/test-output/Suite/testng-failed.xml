@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="AnnotationTransformer"/>
+    <listener class-name="MethodInterceptor"/>
+    <listener class-name="Hookable"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TestNgAllListeners">
+        <methods>
+          <include name="m3"/>
+          <include name="m6"/>
+          <include name="m7"/>
+          <include name="m2"/>
+          <include name="m1"/>
+          <include name="m4"/>
+        </methods>
+      </class> <!-- TestNgAllListeners -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
