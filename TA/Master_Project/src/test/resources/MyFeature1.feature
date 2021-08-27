@@ -5,7 +5,7 @@ Feature: To validate the changes made in MyFeature1
     Then Verify column "Name"
     Then Verify column "Market Cap"
     Then Verify column "Price"
-    Then Verify column "Circulating Supply1"
+    Then Verify column "Circulating Supply"
 
   Scenario: Validate Crypto Page Currency Name
     Given Crypto Page loads successfully
