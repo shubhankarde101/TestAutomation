@@ -1,0 +1,131 @@
+
+1. POM (Page Object Model)
+    - Website
+        -page1 (Example: 10 objects, which are being located through xpath/css/id/name)
+        -page2
+        -page3
+    - Each page has it's own objects
+    - You are using this page1 12 times in your automation framework
+    - you are accessing the objects of page1 (Example: 12*10) 120 times. This will degrade your automation performace in terms of time and effort
+    - POM implemented in your framework
+    - you will create one python/Java class for each page(Ex: page1.class/page1.py)
+    - You will put all the locators(Ex: 10 locators) in that class file
+    - Now you have to call only 12 times to access the objects of page1
+    - Code will be optimized, better performance, reusability, reduce data redundancy
+
+2. Behave
+         
+     -  BDD- Behavior Driven Develoment
+     -  SDLC: Feasibility study,Requirement analysis(Example: 5 requirements fixed and locked),Design, Development, Testing, Maintenance/Support
+     -  Testing: Functional testing, Non functional testing
+           - From our example, you are validating 5 requirements in testing phase
+           - you can achieve this validation through two techniques: 1. Manually, 2. Automation
+           - Automation: You will verify through UI(User Interface)
+           - You will write the code  through java/python and selenium to verify the requirements in UI
+     -  Functional Testing: Regression(manually/automation), UAT(User Acceptance Testing)
+     -  You are a functional tester(you are doing regression through automation)
+     -  You have written lot of codes
+     -  Now your testing is done, and some UAT guy comes to you and ask you to share the automation code
+     -  You will share the code
+     -  UAT guy is non technical guy
+     -  Behave comes into scenario and it will fill this gap(You have to install behave for this reason)
+     -  Behave will provide you gherkin support. It means, you will have some feature file, and you have to write your requirements in english like language
+        and you will connect each of the feature steps to your code
+     - You will deliver this feature file to that same UAT guy
+     - He will run the feature file and test the application
+     
+3. Json(Javascript object notation)
+
+      - This is a file which starts with .json extension
+      - key and value pair  
+      - Example: test.json
+      - you opened this file
+      - Some key and value paris would be there
+      - Scenario: You want to test something in browser
+             browser - chrome
+              - firefox
+              - safari
+             os - windows
+                - mac
+      - you have to put these information into some file
+      - that file would be json file
+      - stored into json file with the below informations and kept into some folder
+        {
+            "browser": "chrome"
+            "Operating system" : "Windows"
+            "Web site URL"  : "https://www.google.com"
+
+         }
+      
+      - next time you want to open the the browser and open the url for the application you want to test
+      - you have to read the json file(import json package and use json.load method to read the json)
+      - you have to fetch the key so that you can get the value
+      - Example: if you fetch browser, you will get "chrome"
+                 if you fetch website url: you will get "https://www.google.com"
+
+
+4. Sample Project 
+      
+         Project requirements
+            - behave (pip install behave)
+            - selenium (pip install selenium)
+            - pip list (using this command, you can see all the packages installed in your system)
+
+        Project structure
+            - features ( all the feature files you will keep)
+               - feature
+               - scenarios
+               - steps(this step would be written by automation tester and reviewed by BA/Business Analyst)
+
+            - pages
+
+               - We have pages for the AUT(application under test)
+               - in page, we will mention locators to locate the object
+               - we will define few reusable methods in that page
+
+
+            - steps
+
+               - All steps mentioned in the feature file will have step definitions using code
+               - step definitions will use the framework structure to get all necessary details
+
+            
+       Context
+
+         - Json handling 
+         - setup 
+                            (This is the constructor where you are configuring your driver)
+                            def __init__(self): 
+        			if settings.browser == "chrome":
+           			   self.driver = webdriver.Chrome(ChromeDriverManager().install())
+        			elif settings.browser == "firefox":
+            			   self.driver = webdriver.Firefox()
+        			else:
+            			  print("Driver not found")
+         - configurations
+
+
+        
+        Doubts 
+
+
+
+
+
+817 6478 1267
+2w5Lm1to
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
