@@ -23,4 +23,4 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
-      run: mvn -f "TD/SeleniumCucumber/pom.xml" clean install
+      run: mvn -f "TA/Selenium_Java_Cucumber/pom.xml" clean install
