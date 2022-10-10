@@ -22,11 +22,11 @@ jobs:
         cache: maven
     - name: Restore Maven cache
       uses: skjolber/maven-cache-github-action@v1
-        with:
+      with:
           step: restore
     - name: Build with Maven
       run: mvn -f "TA/Selenium_Java_Cucumber/pom.xml" clean install
     - name: Save Maven cache
-        uses: skjolber/maven-cache-github-action@v1
-        with:
+      uses: skjolber/maven-cache-github-action@v1
+      with:
           step: save
