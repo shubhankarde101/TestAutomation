@@ -59,7 +59,7 @@
 		<dependency>
 			<groupId>net.masterthought</groupId>
 			<artifactId>cucumber-reporting</artifactId>
-			<version>LATEST</version>
+			<version>2.8.0</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.guava</groupId>
@@ -166,11 +166,7 @@
 				<version>2.8.0</version>
 				<executions>
 					<execution>
-						<id>execution</id>
-						<phase>verify</phase>
-						<goals>
-							<goal>generate</goal>
-						</goals>
+						<id>execution</id>												
 						<configuration>
 							<projectName>BrowseDemo</projectName>
 							<outputDirectory>${project.build.directory}/cucumber-html-reports</outputDirectory>
