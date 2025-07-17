@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/ankitjain/Desktop/deardoc_patientapp_ios">
+        <classes>
+            <class name="com.iOS.patient.testcases.OrderToCashFlowTest">
+                <methods>
+                    <include name="verifyProductAvailable">
+                        <parameter name="label" value="Sauce Labs Fleece Jacket"/>
+                        <parameter name="price" value="$49.99"/>
+                    </include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

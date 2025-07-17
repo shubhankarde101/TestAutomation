@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"PetStore user functionalities","Verify admin will be able to create a new pet store user","SUCCESS","2023-08-05T18:37:26.091876+05:30[Asia/Kolkata]","0.0","4.18"
+"PetStore user functionalities","Verify admin will be able to retrieve the new user details","SUCCESS","2023-08-05T18:37:30.283923+05:30[Asia/Kolkata]","0.0","1.98"
+"PetStore user functionalities","Verify admin will be able to delete the user","SUCCESS","2023-08-05T18:37:32.26853+05:30[Asia/Kolkata]","0.0","2.97"

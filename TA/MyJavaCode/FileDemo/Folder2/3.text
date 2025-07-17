@@ -1,0 +1,11 @@
+text.account.addressBook.manageYourAddresses=Ihr Adressbuch verwalten
+custom.key.basket.quick.order.error={0} Produkt(e) wurde(n) nicht in den Einkaufswagen gelegt, Fehler auf der Seite für Schnellbestellungen überprüfen
+checkout.error.paymentethod.formentry.sop.missing.billTo_lastName=Geben Sie einen Wert fÃ¼r dieses Feld ein
+checkout.multi.deliveryAddress.edit=Bearbeiten
+text.headline.navigationbar=Durchsuchen Sie die Navigationsleiste
+text.account.quote.action.display.SAVE=Save Quote
+fastorder.searchline.youenter=Sie haben {0} in die Suche eingegeben.
+catalog.filter.selection.label=Angezeigt:
+text.account.quote.page.sort.byName=Name
+checkout.text.onetime.sameasshipto=Ich möchte meine Versandadresse auch als Rechnungsadresse verwenden.
+proposal.action.convertToQuote.title=In Angebot umwandeln

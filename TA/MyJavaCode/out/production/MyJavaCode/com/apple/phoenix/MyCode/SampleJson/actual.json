@@ -1,0 +1,1882 @@
+{
+  "q": "Goodnight+Moon",
+  "docs": [
+    {
+      "publish_year": [
+        1983,
+        1985,
+        1995,
+        2014,
+        1975,
+        1992,
+        2001,
+        1982,
+        1991,
+        1984,
+        2007,
+        2006,
+        1986,
+        1990,
+        1997,
+        1989,
+        1999,
+        2003,
+        2005,
+        1947,
+        1979,
+        1998,
+        1981,
+        1996,
+        2002
+      ],
+      "id_amazon": [
+        ""
+      ],
+      "ia_collection": [
+        "California-State-Suggested-Reading",
+        "TopChildrensBooks",
+        "additional_collections",
+        "americana",
+        "barryuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "books",
+        "bpljordan-ol",
+        "china",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "framingham-ol",
+        "georgetown-university-law-library-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "marymount-ol",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "salisburyfreelibrary-ol",
+        "stmaryscountylibrary",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "worthingtonlibraries-ol",
+        "wrlc-ol"
+      ],
+      "currently_reading_count": 20,
+      "ratings_sortable": 3.7597535,
+      "subject": [
+        "Children's fiction",
+        "Picture books",
+        "Bedtime, fiction",
+        "Rabbits, fiction",
+        "Literature and fiction, juvenile",
+        "Rabbits",
+        "Stories in rhyme",
+        "Juvenile fiction",
+        "Moon in fiction",
+        "Board books",
+        "Hora de acostarse",
+        "Fiction",
+        "Bedtime in fiction",
+        "Rabbits in fiction",
+        "Ficción juvenil",
+        "Sleep",
+        "Bedtime",
+        "Night",
+        "Libros de láminas",
+        "Picture books for children",
+        "Spanish language materials",
+        "Specimens",
+        "Bilingual",
+        "Hmong language materials",
+        "Conejos",
+        "Bedtime & Dreams",
+        "Words",
+        "Concepts",
+        "Classics",
+        "JUVENILE FICTION",
+        "Moon, fiction",
+        "Night, fiction",
+        "Counting books",
+        "Children's literature, history and criticism",
+        "Authorship, juvenile literature",
+        "Authorship",
+        "Large type books",
+        "Toy and movable books",
+        "Short stories",
+        "Boys",
+        "Comic books, strips",
+        "Teacher-student relationships"
+      ],
+      "ratings_count_1": 2,
+      "ratings_count_2": 2,
+      "ratings_count_3": 4,
+      "language": [
+        "eng",
+        "jpn",
+        "fre",
+        "spa",
+        "vie",
+        "chi",
+        "heb"
+      ],
+      "ratings_count_4": 8,
+      "type": "work",
+      "ratings_count_5": 22,
+      "lccn": [
+        "00265689",
+        "2001271458",
+        "2001089052",
+        "2001276702",
+        "97117965",
+        "83048169",
+        "47030762",
+        "2005281602",
+        "98168838",
+        "94043633"
+      ],
+      "last_modified_i": 1682760045,
+      "publish_place": [
+        "New York, NY",
+        "London",
+        "Moshav Ben Shemen",
+        "[New York, NY]",
+        "S.l",
+        "Beijing Shi",
+        "[New York]",
+        "México",
+        "Tōkyō",
+        "New York",
+        "Taibei Shi",
+        "[New York",
+        "Paris"
+      ],
+      "ia": [
+        "goodnightmoon00brow_0",
+        "goodnightmoon0000unse",
+        "isbn_9780061227295",
+        "oyasuminasaiotsu0000brow",
+        "buenasnochesluna00brow",
+        "goodnightmoon1975brow",
+        "goodnightmoon1975brow",
+        "goodnightmoon00brow",
+        "goodnightmoon1991brow",
+        "goodnightmoon00brow",
+        "goodnightmoon00marg",
+        "buenasnochesluna00brow_0",
+        "goodnightmoon0000brow",
+        "isbn_0590092421",
+        "buenasnochesluna00marg",
+        "goodnightmoon00brow_1"
+      ],
+      "lending_identifier_s": "goodnightmoon00brow_0",
+      "readinglog_count": 412,
+      "ratings_count": 38,
+      "ratings_average": 4.2105265,
+      "author_key": [
+        "OL22122A"
+      ],
+      "cover_edition_key": "OL9236212M",
+      "ebook_access": "borrowable",
+      "printdisabled_s": "OL18489263M;OL15353628M;OL32109344M;OL33339276M;OL22900725M;OL24760940M;OL16937731M;OL3966227M;OL24376889M;OL23242531M;OL7541278M;OL7884869M;OL728954M;OL6803483M;OL7759583M;OL17938689M",
+      "subject_facet": [
+        "Authorship",
+        "Authorship, juvenile literature",
+        "Bedtime",
+        "Bedtime & Dreams",
+        "Bedtime in fiction",
+        "Bedtime, fiction",
+        "Bilingual",
+        "Board books",
+        "Boys",
+        "Children's fiction",
+        "Children's literature, history and criticism",
+        "Classics",
+        "Comic books, strips",
+        "Concepts",
+        "Conejos",
+        "Counting books",
+        "Ficción juvenil",
+        "Fiction",
+        "Hmong language materials",
+        "Hora de acostarse",
+        "JUVENILE FICTION",
+        "Juvenile fiction",
+        "Large type books",
+        "Libros de láminas",
+        "Literature and fiction, juvenile",
+        "Moon in fiction",
+        "Moon, fiction",
+        "Night",
+        "Night, fiction",
+        "Picture books",
+        "Picture books for children",
+        "Rabbits",
+        "Rabbits in fiction",
+        "Rabbits, fiction",
+        "Short stories",
+        "Sleep",
+        "Spanish language materials",
+        "Specimens",
+        "Stories in rhyme",
+        "Teacher-student relationships",
+        "Toy and movable books",
+        "Words"
+      ],
+      "place_facet": [
+        "Moon"
+      ],
+      "publisher": [
+        "l'ecole des loisirs",
+        "Harper & Row",
+        "Kimbo Educational Audio",
+        "Modan",
+        "Mammoth",
+        "Festival",
+        "L'Ecole des loisirs",
+        "Minnesota Humanities Commission",
+        "Harper Collins Publishers",
+        "Rayo",
+        "HarperCollins]",
+        "Hyōronsha",
+        "French & European Pubns",
+        "Scholastic (Spn)",
+        "Harperfestival",
+        "Wu Han Chu Ban She/ Tsai Fong Books",
+        "Universe Publishing",
+        "Weston Woods",
+        "Scholastic",
+        "Campbell Books",
+        "HarperCollins Espanol",
+        "HarperCollins Children's Books",
+        "Perfection Learning Prebound",
+        "Harper Arco Iris",
+        "Harper Children's Audio",
+        "HarperCollins Publishers",
+        "Tandem Library",
+        "Live Oak Media",
+        "Aims Intl Books Corp",
+        "Beijing lian he chu ban gong si",
+        "Harper",
+        "HarperTrophy",
+        "Scholastic Book Club Edition",
+        "HarperCollins",
+        "Shang yi wen hua shi ye gu fen you xian gong si",
+        "HarperFestival",
+        "Beijing United Publishing co., LTD",
+        "Sistemas Técnicos de Edición"
+      ],
+      "publish_date": [
+        "September 1995",
+        "April 30, 1999",
+        "February 28, 1997",
+        "1995",
+        "September 6, 2005",
+        "2014",
+        "June 1982",
+        "1992",
+        "June 26, 2007",
+        "2007",
+        "February 1992",
+        "January 2002",
+        "June 1986",
+        "September 1982",
+        "1990",
+        "October 1, 2002",
+        "1997",
+        "October 1999",
+        "September 30, 2003",
+        "January 1996",
+        "July 1, 2003",
+        "October 2, 1985",
+        "August 21, 2007",
+        "April 1, 2001",
+        "1947",
+        "September 25, 2007",
+        "1981",
+        "June 1984",
+        "1996",
+        "January 3, 2006",
+        "February 28, 1998",
+        "September 1997",
+        "October 1, 1981",
+        "August 1998",
+        "December 26, 2006",
+        "1975",
+        "2001",
+        "1991",
+        "1984",
+        "August 30, 2007",
+        "1989",
+        "March 19, 2002",
+        "January 1995",
+        "2005",
+        "April 2006",
+        "1979",
+        "June 1983",
+        "January 18, 2005",
+        "September 30, 1997",
+        "2002",
+        "May 2005"
+      ],
+      "ebook_count_i": 16,
+      "ddc_sort": "813.52",
+      "cover_i": 35556,
+      "author_name": [
+        "Margaret Wise Brown"
+      ],
+      "edition_count": 80,
+      "first_publish_year": 1947,
+      "seed": [
+        "/books/OL26154490M",
+        "/books/OL17753471M",
+        "/books/OL6522561M",
+        "/books/OL15315442M",
+        "/books/OL18489263M",
+        "/books/OL15353628M",
+        "/books/OL32109344M",
+        "/books/OL33339276M",
+        "/books/OL9459716M",
+        "/books/OL16766700M",
+        "/books/OL9371670M",
+        "/books/OL8422176M",
+        "/books/OL13248388M",
+        "/books/OL3187043M",
+        "/books/OL11540286M",
+        "/books/OL10447250M",
+        "/books/OL7759432M",
+        "/books/OL13349390M",
+        "/books/OL22900725M",
+        "/books/OL22813400M",
+        "/books/OL24760940M",
+        "/books/OL16937731M",
+        "/books/OL3966227M",
+        "/books/OL24376889M",
+        "/books/OL23242531M",
+        "/books/OL11183143M",
+        "/books/OL7541278M",
+        "/books/OL7884869M",
+        "/books/OL8422175M",
+        "/books/OL22232604M",
+        "/books/OL1117476M",
+        "/books/OL9175312M",
+        "/books/OL22860040M",
+        "/books/OL22967931M",
+        "/books/OL9949381M",
+        "/books/OL11183236M",
+        "/books/OL7759511M",
+        "/books/OL728954M",
+        "/books/OL17307212M",
+        "/books/OL6803483M",
+        "/books/OL453589M",
+        "/books/OL7759991M",
+        "/books/OL11183269M",
+        "/books/OL11183283M",
+        "/books/OL9306062M",
+        "/books/OL8521237M",
+        "/books/OL23133713M",
+        "/books/OL3957364M",
+        "/books/OL8864894M",
+        "/books/OL7759583M",
+        "/books/OL23000080M",
+        "/books/OL23032860M",
+        "/books/OL7274909M",
+        "/books/OL9229618M",
+        "/books/OL11143860M",
+        "/books/OL9232968M",
+        "/books/OL7278260M",
+        "/books/OL9444276M",
+        "/books/OL17938689M",
+        "/books/OL7281506M",
+        "/books/OL9236213M",
+        "/books/OL9235965M",
+        "/books/OL7281258M",
+        "/books/OL9236212M",
+        "/books/OL7281505M",
+        "/books/OL8880506M",
+        "/books/OL9246679M",
+        "/books/OL7291974M",
+        "/books/OL8880505M",
+        "/books/OL7288695M",
+        "/books/OL9243400M",
+        "/books/OL7759574M",
+        "/books/OL9244094M",
+        "/books/OL7289389M",
+        "/books/OL23096069M",
+        "/books/OL7280905M",
+        "/books/OL9235612M",
+        "/books/OL7288126M",
+        "/books/OL9242831M",
+        "/books/OL27189303M",
+        "/works/OL151798W",
+        "/subjects/children's_fiction",
+        "/subjects/picture_books",
+        "/subjects/bedtime_fiction",
+        "/subjects/rabbits_fiction",
+        "/subjects/literature_and_fiction_juvenile",
+        "/subjects/rabbits",
+        "/subjects/stories_in_rhyme",
+        "/subjects/juvenile_fiction",
+        "/subjects/moon_in_fiction",
+        "/subjects/board_books",
+        "/subjects/hora_de_acostarse",
+        "/subjects/fiction",
+        "/subjects/bedtime_in_fiction",
+        "/subjects/rabbits_in_fiction",
+        "/subjects/ficción_juvenil",
+        "/subjects/sleep",
+        "/subjects/bedtime",
+        "/subjects/night",
+        "/subjects/libros_de_láminas",
+        "/subjects/picture_books_for_children",
+        "/subjects/spanish_language_materials",
+        "/subjects/specimens",
+        "/subjects/bilingual",
+        "/subjects/hmong_language_materials",
+        "/subjects/conejos",
+        "/subjects/bedtime_&_dreams",
+        "/subjects/words",
+        "/subjects/concepts",
+        "/subjects/classics",
+        "/subjects/juvenile_fiction",
+        "/subjects/moon_fiction",
+        "/subjects/night_fiction",
+        "/subjects/counting_books",
+        "/subjects/children's_literature_history_and_criticism",
+        "/subjects/authorship_juvenile_literature",
+        "/subjects/authorship",
+        "/subjects/large_type_books",
+        "/subjects/toy_and_movable_books",
+        "/subjects/short_stories",
+        "/subjects/boys",
+        "/subjects/comic_books_strips",
+        "/subjects/teacher-student_relationships",
+        "/subjects/place:moon",
+        "/authors/OL22122A"
+      ],
+      "author_alternative_name": [
+        "Margaret Wise And Edith Thatcher Hurd Brown",
+        "Golden MacDonald",
+        "Juniper Sage",
+        "Margaret Wise Brown,Margaret Wise Brown",
+        "Timothy Hay",
+        "Margaret Wise Brown"
+      ],
+      "isbn": [
+        "0590733028",
+        "9780590463799",
+        "0694012017",
+        "0590092421",
+        "9784566002333",
+        "9780060262143",
+        "0941078280",
+        "0828845859",
+        "0060275480",
+        "2211072933",
+        "9781595192585",
+        "0061142700",
+        "9780060275044",
+        "9780064430173",
+        "9789577623201",
+        "0060262141",
+        "0941078299",
+        "0694700940",
+        "9780812432381",
+        "9780694700219",
+        "9780941078290",
+        "0694012742",
+        "0941078302",
+        "0694016381",
+        "9780694012015",
+        "0749730072",
+        "9780694003730",
+        "0064434168",
+        "9780060775865",
+        "006074684X",
+        "4566002330",
+        "0590733184",
+        "9780333961070",
+        "0694016519",
+        "9781595192578",
+        "0060275049",
+        "9997062043",
+        "0060760273",
+        "9780061142703",
+        "9789990926378",
+        "0060775866",
+        "0694000035",
+        "159519259X",
+        "9780061119774",
+        "0789309289",
+        "9780694000036",
+        "9787550230507",
+        "9780590131599",
+        "9780613099615",
+        "0694016756",
+        "9780590733021",
+        "9990926379",
+        "9780060207069",
+        "9577623204",
+        "0060094273",
+        "0694009792",
+        "0060207078",
+        "9780060207076",
+        "9789997062048",
+        "9780962929878",
+        "7550230501",
+        "9780060775858",
+        "9780694016518",
+        "0694700215",
+        "9782211010283",
+        "0060207051",
+        "0694003735",
+        "0613099613",
+        "9780060746841",
+        "9780060760274",
+        "9780749730079",
+        "9780060275488",
+        "0898459885",
+        "9780694009794",
+        "2211010288",
+        "9781595192592",
+        "9780694003617",
+        "9780694016389",
+        "0694003611",
+        "9780694010080",
+        "006020706X",
+        "9780064434164",
+        "1595192573",
+        "9686394028",
+        "9780941078306",
+        "9789686394023",
+        "9780941078283",
+        "9780061239021",
+        "0962929875",
+        "9780060541798",
+        "0317071203",
+        "9780590733182",
+        "9780060207052",
+        "9780828845854",
+        "9780694700943",
+        "0694010081",
+        "1595192581",
+        "9780694012749",
+        "006123902X",
+        "0333961072",
+        "0061119776",
+        "0060775858",
+        "9780060094270",
+        "0064430170",
+        "9780590092425",
+        "9780317071207",
+        "9782211072939",
+        "0590131591",
+        "9780694016754",
+        "0590463799",
+        "9780898459883",
+        "081243238X",
+        "0060541792",
+        "9780789309280"
+      ],
+      "ia_loaded_id": [
+        "goodnightmoon1991brow",
+        "goodnightmoonroo00brow",
+        "buenasnochesluna00brow_0",
+        "goodnightmoon00brow_0"
+      ],
+      "edition_key": [
+        "OL26154490M",
+        "OL17753471M",
+        "OL6522561M",
+        "OL15315442M",
+        "OL18489263M",
+        "OL15353628M",
+        "OL32109344M",
+        "OL33339276M",
+        "OL9459716M",
+        "OL16766700M",
+        "OL9371670M",
+        "OL8422176M",
+        "OL13248388M",
+        "OL3187043M",
+        "OL11540286M",
+        "OL10447250M",
+        "OL7759432M",
+        "OL13349390M",
+        "OL22900725M",
+        "OL22813400M",
+        "OL24760940M",
+        "OL16937731M",
+        "OL3966227M",
+        "OL24376889M",
+        "OL23242531M",
+        "OL11183143M",
+        "OL7541278M",
+        "OL7884869M",
+        "OL8422175M",
+        "OL22232604M",
+        "OL1117476M",
+        "OL9175312M",
+        "OL22860040M",
+        "OL22967931M",
+        "OL9949381M",
+        "OL11183236M",
+        "OL7759511M",
+        "OL728954M",
+        "OL17307212M",
+        "OL6803483M",
+        "OL453589M",
+        "OL7759991M",
+        "OL11183269M",
+        "OL11183283M",
+        "OL9306062M",
+        "OL8521237M",
+        "OL23133713M",
+        "OL3957364M",
+        "OL8864894M",
+        "OL7759583M",
+        "OL23000080M",
+        "OL23032860M",
+        "OL7274909M",
+        "OL9229618M",
+        "OL11143860M",
+        "OL9232968M",
+        "OL7278260M",
+        "OL9444276M",
+        "OL17938689M",
+        "OL7281506M",
+        "OL9236213M",
+        "OL9235965M",
+        "OL7281258M",
+        "OL9236212M",
+        "OL7281505M",
+        "OL8880506M",
+        "OL9246679M",
+        "OL7291974M",
+        "OL8880505M",
+        "OL7288695M",
+        "OL9243400M",
+        "OL7759574M",
+        "OL9244094M",
+        "OL7289389M",
+        "OL23096069M",
+        "OL7280905M",
+        "OL9235612M",
+        "OL7288126M",
+        "OL9242831M",
+        "OL27189303M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon, 60th Anniversary Edition",
+      "id_librarything": [
+        "4163379",
+        "39272",
+        "1896411"
+      ],
+      "title": "Goodnight Moon, 60th Anniversary Edition",
+      "lcc": [
+        "PZ-0008.30000000.B815Go 2001",
+        "PZ-0008.30000000.B815 Go 1997b",
+        "PZ-0008.30000000.B815 Go 2001",
+        "PZ-0008.30000000.B815 Go 1991",
+        "PZ-0007.00000000.B8163 Go",
+        "PZ-0007.00000000.B8163 Gp 1984",
+        "PZ-0008.30000000.B815Go 2005",
+        "PZ-0008.30000000.B815 Go 2005",
+        "PZ-0008.30000000.B815 Go 1997",
+        "PZ-0049.31000000.B7696 1979",
+        "PZ-0007.00000000.B8163 Go 1997",
+        "PN-6790.00000000.H24 A4354 2015",
+        "PZ-0073.00000000.B6853 1995",
+        "PZ-0007.00000000.B8163 Go 1990z",
+        "PS-3503.00000000.R82184",
+        "PZ-0007.00000000.B8163"
+      ],
+      "lending_edition_s": "OL18489263M",
+      "id_goodreads": [
+        "237410",
+        "107711",
+        "2736565",
+        "57601",
+        "237369",
+        "2736559",
+        "2230790",
+        "1904607",
+        "57602",
+        "32934",
+        "107704",
+        "1556000",
+        "32937",
+        "32935",
+        "2736558",
+        "107710",
+        "6065711",
+        "734524",
+        "516733",
+        "1535585",
+        "107706",
+        "2210866",
+        "3148085",
+        "1099990",
+        "1099989",
+        "569966",
+        "32929",
+        "94559",
+        "973162",
+        "1940249",
+        "1099991",
+        "1137375",
+        "6475965",
+        "57599",
+        "1940247",
+        "388882",
+        "232381",
+        "107705",
+        "107707",
+        "107717",
+        "94557",
+        "32933",
+        "32930",
+        "57600"
+      ],
+      "already_read_count": 91,
+      "contributor": [
+        "Hurd, Clement, 1908-",
+        "Mlawer, Teresa tr.",
+        "Hancock, Pat",
+        "Hurd, Clement, 1908- ill.",
+        "Clement Hurd (Illustrator)",
+        "Hurd, Clement, 1908-1988.",
+        "Hurd, Clement, 1908-1988 ill.",
+        "Hurd, Clement, 1908-1988, ill",
+        "Huang, Naiyu.",
+        "Seta, Teiji, 1916-1979",
+        "Marcus, Leonard S., 1950-",
+        "Hurd, Clement, 1908-1988",
+        "Ajia, translator",
+        "Hurd, Clement, 1908- illus.",
+        "Linda Terheyden (Narrator)",
+        "Mlawer, Teresa.",
+        "Meltser, Yehudah.",
+        "Hurd, Clement.",
+        "Brown, Margaret Wise, 1910-1952.",
+        "Teresa Mlawer (Translator)"
+      ],
+      "lcc_sort": "PN-6790.00000000.H24 A4354 2015",
+      "has_fulltext": true,
+      "place": [
+        "Moon"
+      ],
+      "subject_key": [
+        "authorship",
+        "authorship_juvenile_literature",
+        "bedtime",
+        "bedtime__dreams",
+        "bedtime_fiction",
+        "bedtime_in_fiction",
+        "bilingual",
+        "board_books",
+        "boys",
+        "children's_fiction",
+        "children's_literature_history_and_criticism",
+        "classics",
+        "comic_books_strips",
+        "concepts",
+        "conejos",
+        "counting_books",
+        "ficción_juvenil",
+        "fiction",
+        "hmong_language_materials",
+        "hora_de_acostarse",
+        "juvenile_fiction",
+        "large_type_books",
+        "libros_de_láminas",
+        "literature_and_fiction_juvenile",
+        "moon_fiction",
+        "moon_in_fiction",
+        "night",
+        "night_fiction",
+        "picture_books",
+        "picture_books_for_children",
+        "rabbits",
+        "rabbits_fiction",
+        "rabbits_in_fiction",
+        "short_stories",
+        "sleep",
+        "spanish_language_materials",
+        "specimens",
+        "stories_in_rhyme",
+        "teacher-student_relationships",
+        "toy_and_movable_books",
+        "words"
+      ],
+      "key": "/works/OL151798W",
+      "number_of_pages_median": 32,
+      "ddc": [
+        "513",
+        "816",
+        "813.52",
+        "[E]"
+      ],
+      "publisher_facet": [
+        "Aims Intl Books Corp",
+        "Beijing United Publishing co., LTD",
+        "Beijing lian he chu ban gong si",
+        "Campbell Books",
+        "Festival",
+        "French & European Pubns",
+        "Harper",
+        "Harper & Row",
+        "Harper Arco Iris",
+        "Harper Children's Audio",
+        "Harper Collins Publishers",
+        "HarperCollins",
+        "HarperCollins Children's Books",
+        "HarperCollins Espanol",
+        "HarperCollins Publishers",
+        "HarperCollins]",
+        "HarperFestival",
+        "HarperTrophy",
+        "Harperfestival",
+        "Hyōronsha",
+        "Kimbo Educational Audio",
+        "L'Ecole des loisirs",
+        "Live Oak Media",
+        "Mammoth",
+        "Minnesota Humanities Commission",
+        "Modan",
+        "Perfection Learning Prebound",
+        "Rayo",
+        "Scholastic",
+        "Scholastic (Spn)",
+        "Scholastic Book Club Edition",
+        "Shang yi wen hua shi ye gu fen you xian gong si",
+        "Sistemas Técnicos de Edición",
+        "Tandem Library",
+        "Universe Publishing",
+        "Weston Woods",
+        "Wu Han Chu Ban She/ Tsai Fong Books",
+        "l'ecole des loisirs"
+      ],
+      "title_sort": "Goodnight Moon, 60th Anniversary Edition",
+      "want_to_read_count": 301,
+      "place_key": [
+        "moon"
+      ],
+      "ia_collection_s": "California-State-Suggested-Reading;TopChildrensBooks;additional_collections;americana;barryuniversity-ol;belmont-ol;binghamton-ol;books;bpljordan-ol;china;cnusd-ol;cua-ol;dartmouthlibrary-ol;delawarecountydistrictlibrary;delawarecountydistrictlibrary-ol;denverpubliclibrary-ol;framingham-ol;georgetown-university-law-library-ol;goffstownlibrary-ol;gwulibraries-ol;hamiltonpubliclibrary-ol;inlibrary;internetarchivebooks;johnshopkins-ol;library_of_atlantis;marymount-ol;miltonpubliclibrary-ol;occidentalcollegelibrary-ol;openlibrary-d-ol;printdisabled;salisburyfreelibrary-ol;stmaryscountylibrary;uhmauicollege-ol;unb-ol;uni-ol;universityofarizona-ol;universityofcoloradoboulder-ol;universityofoklahoma-ol;worthingtonlibraries-ol;wrlc-ol",
+      "ia_box_id": [
+        "IA1698108",
+        "IA162801",
+        "IA179401",
+        "IA40257107",
+        "IA1992921",
+        "IA1110208",
+        "IA1147405",
+        "ia118513",
+        "IA123504",
+        "IA172101",
+        "IA106501",
+        "IA104319",
+        "IA119113",
+        "IA40230202",
+        "IA130901"
+      ],
+      "_version_": 1764501800082210816,
+      "first_sentence": [
+        "In the great green room",
+        "En la gran habitacion verde, hay un telefono, un globo rojo y un cuadro...",
+        "In the great green room There was a telephone And a red balloon And a picture of-"
+      ],
+      "oclc": [
+        "144642147",
+        "11274884",
+        "10776840",
+        "61670077",
+        "144543771",
+        "61661057",
+        "36345410",
+        "471759774",
+        "39440911",
+        "629195378",
+        "49375039",
+        "166256375",
+        "906790433",
+        "54920092",
+        "36260786",
+        "25324268",
+        "45815740",
+        "400530910",
+        "58750920",
+        "32442061",
+        "930684102",
+        "144226707"
+      ],
+      "author_facet": [
+        "OL22122A Margaret Wise Brown"
+      ]
+    },
+    {
+      "publish_year": [
+        2022
+      ],
+      "author_name": [
+        "Margaret Wise Brown"
+      ],
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "seed": [
+        "/books/OL38453430M",
+        "/works/OL28095568W",
+        "/subjects/children's_fiction",
+        "/authors/OL10347174A"
+      ],
+      "subject": [
+        "Children's fiction"
+      ],
+      "isbn": [
+        "1648720293",
+        "9781648720291"
+      ],
+      "edition_key": [
+        "OL38453430M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1655621491,
+      "has_fulltext": false,
+      "subject_key": [
+        "children's_fiction"
+      ],
+      "key": "/works/OL28095568W",
+      "author_key": [
+        "OL10347174A"
+      ],
+      "publisher_facet": [
+        "Cascade Press"
+      ],
+      "title_sort": "Goodnight Moon",
+      "ebook_access": "no_ebook",
+      "subject_facet": [
+        "Children's fiction"
+      ],
+      "_version_": 1759777217633583104,
+      "publisher": [
+        "Cascade Press"
+      ],
+      "author_facet": [
+        "OL10347174A Margaret Wise Brown"
+      ],
+      "publish_date": [
+        "2022"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "publish_year": [
+        2017,
+        2022,
+        2016,
+        1984
+      ],
+      "cover_i": 10670311,
+      "author_name": [
+        "Margaret Wise Brown",
+        "Clement Hurd"
+      ],
+      "edition_count": 4,
+      "first_publish_year": 1984,
+      "seed": [
+        "/books/OL32000860M",
+        "/books/OL28613702M",
+        "/books/OL28624341M",
+        "/books/OL33946482M",
+        "/works/OL21137442W",
+        "/subjects/children's_fiction",
+        "/subjects/stories_in_rhyme",
+        "/subjects/picture_books",
+        "/authors/OL22122A",
+        "/authors/OL6037563A"
+      ],
+      "currently_reading_count": 0,
+      "author_alternative_name": [
+        "Golden MacDonald",
+        "Juniper Sage",
+        "Margaret Wise Brown",
+        "Timothy Hay",
+        "Margaret Wise Brown,Margaret Wise Brown",
+        "Margaret Wise And Edith Thatcher Hurd Brown"
+      ],
+      "subject": [
+        "Children's fiction",
+        "Stories in rhyme",
+        "Picture books"
+      ],
+      "isbn": [
+        "9781595192561",
+        "1595192565",
+        "1509829466",
+        "1509831975",
+        "9781529090789",
+        "9781509831975",
+        "1529090784",
+        "9781509829460"
+      ],
+      "edition_key": [
+        "OL32000860M",
+        "OL28613702M",
+        "OL28624341M",
+        "OL33946482M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1677544048,
+      "already_read_count": 0,
+      "readinglog_count": 0,
+      "has_fulltext": false,
+      "subject_key": [
+        "children's_fiction",
+        "picture_books",
+        "stories_in_rhyme"
+      ],
+      "key": "/works/OL21137442W",
+      "number_of_pages_median": 32,
+      "author_key": [
+        "OL22122A",
+        "OL6037563A"
+      ],
+      "cover_edition_key": "OL32000860M",
+      "publisher_facet": [
+        "Live Oak Media (NY)",
+        "Pan Macmillan",
+        "Two Hoots"
+      ],
+      "title_sort": "Goodnight Moon",
+      "ebook_access": "no_ebook",
+      "want_to_read_count": 0,
+      "subject_facet": [
+        "Children's fiction",
+        "Picture books",
+        "Stories in rhyme"
+      ],
+      "_version_": 1759862390941286401,
+      "publisher": [
+        "Pan Macmillan",
+        "Live Oak Media (NY)",
+        "Two Hoots"
+      ],
+      "author_facet": [
+        "OL22122A Margaret Wise Brown",
+        "OL6037563A Clement Hurd"
+      ],
+      "publish_date": [
+        "2017",
+        "Mar 30, 1984",
+        "2022",
+        "2016"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "publish_year": [
+        1989,
+        2011
+      ],
+      "author_name": [
+        "Margaret Wise Brown"
+      ],
+      "edition_count": 3,
+      "first_publish_year": 1989,
+      "author_key": [
+        "OL10347174A"
+      ],
+      "seed": [
+        "/books/OL40281491M",
+        "/books/OL44264705M",
+        "/books/OL43400891M",
+        "/works/OL29300762W",
+        "/authors/OL10347174A"
+      ],
+      "publisher_facet": [
+        "HarperCollins Publishers",
+        "Scholastic, Incorporated",
+        "n/a"
+      ],
+      "isbn": [
+        "9780590652360",
+        "0590652362",
+        "0061962988",
+        "9780061962981",
+        "9780062835383",
+        "0062835386"
+      ],
+      "title_sort": "Goodnight Moon",
+      "edition_key": [
+        "OL40281491M",
+        "OL44264705M",
+        "OL43400891M"
+      ],
+      "ebook_access": "no_ebook",
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1671309274,
+      "_version_": 1759779837438853121,
+      "publisher": [
+        "n/a",
+        "Scholastic, Incorporated",
+        "HarperCollins Publishers"
+      ],
+      "author_facet": [
+        "OL10347174A Margaret Wise Brown"
+      ],
+      "has_fulltext": false,
+      "publish_date": [
+        "1989",
+        "2011-01-01"
+      ],
+      "ebook_count_i": 0,
+      "key": "/works/OL29300762W"
+    },
+    {
+      "publish_year": [
+        2015,
+        2017,
+        2016
+      ],
+      "cover_i": 8751929,
+      "author_name": [
+        "Margaret Wise Brown",
+        "Clement Hurd"
+      ],
+      "edition_count": 3,
+      "first_publish_year": 2015,
+      "seed": [
+        "/books/OL36332591M",
+        "/books/OL36804518M",
+        "/books/OL27261457M",
+        "/works/OL20081449W",
+        "/subjects/children's_fiction",
+        "/subjects/toy_and_movable_books",
+        "/authors/OL22122A",
+        "/authors/OL6037563A"
+      ],
+      "author_alternative_name": [
+        "Margaret Wise Brown",
+        "Margaret Wise Brown,Margaret Wise Brown",
+        "Golden MacDonald",
+        "Juniper Sage",
+        "Margaret Wise And Edith Thatcher Hurd Brown",
+        "Timothy Hay"
+      ],
+      "subject": [
+        "Children's fiction",
+        "Toy and movable books"
+      ],
+      "isbn": [
+        "1626546363",
+        "9781495023545",
+        "9781626546363",
+        "9780062573094",
+        "1495023540",
+        "0062573098"
+      ],
+      "edition_key": [
+        "OL36332591M",
+        "OL36804518M",
+        "OL27261457M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1675140529,
+      "has_fulltext": false,
+      "subject_key": [
+        "children's_fiction",
+        "toy_and_movable_books"
+      ],
+      "key": "/works/OL20081449W",
+      "author_key": [
+        "OL22122A",
+        "OL6037563A"
+      ],
+      "cover_edition_key": "OL27261457M",
+      "publisher_facet": [
+        "Echo Point Books & Media, LLC.",
+        "Harper Festival",
+        "Shadow Water Music"
+      ],
+      "title_sort": "Goodnight Moon",
+      "ebook_access": "no_ebook",
+      "subject_facet": [
+        "Children's fiction",
+        "Toy and movable books"
+      ],
+      "_version_": 1759761533434331140,
+      "publisher": [
+        "Harper Festival",
+        "Shadow Water Music",
+        "Echo Point Books & Media, LLC."
+      ],
+      "author_facet": [
+        "OL22122A Margaret Wise Brown",
+        "OL6037563A Clement Hurd"
+      ],
+      "publish_date": [
+        "2015",
+        "2017",
+        "2016"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "publish_year": [
+        2020
+      ],
+      "author_name": [
+        "Brown"
+      ],
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "seed": [
+        "/books/OL34321223M",
+        "/books/OL34321222M",
+        "/works/OL25589868W",
+        "/subjects/children's_fiction",
+        "/authors/OL2559788A"
+      ],
+      "subject": [
+        "Children's fiction"
+      ],
+      "isbn": [
+        "1648720250",
+        "9781648720253",
+        "1648720242",
+        "9781648720246"
+      ],
+      "edition_key": [
+        "OL34321223M",
+        "OL34321222M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1633139881,
+      "has_fulltext": false,
+      "subject_key": [
+        "children's_fiction"
+      ],
+      "key": "/works/OL25589868W",
+      "author_key": [
+        "OL2559788A"
+      ],
+      "publisher_facet": [
+        "Cascade Press"
+      ],
+      "title_sort": "Goodnight Moon",
+      "ebook_access": "no_ebook",
+      "subject_facet": [
+        "Children's fiction"
+      ],
+      "_version_": 1759772151959781376,
+      "publisher": [
+        "Cascade Press"
+      ],
+      "author_facet": [
+        "OL2559788A Brown"
+      ],
+      "publish_date": [
+        "2020"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "publish_year": [
+        2000,
+        1970
+      ],
+      "author_name": [
+        "Margaret Wise Brown"
+      ],
+      "edition_count": 2,
+      "first_publish_year": 1970,
+      "seed": [
+        "/books/OL37352058M",
+        "/books/OL37406744M",
+        "/works/OL27423921W",
+        "/subjects/picture_books",
+        "/subjects/children's_fiction",
+        "/authors/OL22122A"
+      ],
+      "author_alternative_name": [
+        "Timothy Hay",
+        "Golden MacDonald",
+        "Juniper Sage",
+        "Margaret Wise And Edith Thatcher Hurd Brown",
+        "Margaret Wise Brown",
+        "Margaret Wise Brown,Margaret Wise Brown"
+      ],
+      "subject": [
+        "Picture books",
+        "Children's fiction"
+      ],
+      "isbn": [
+        "0694013099",
+        "9780694013098",
+        "0060953829",
+        "9780060953829"
+      ],
+      "edition_key": [
+        "OL37352058M",
+        "OL37406744M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1648832473,
+      "has_fulltext": false,
+      "subject_key": [
+        "children's_fiction",
+        "picture_books"
+      ],
+      "key": "/works/OL27423921W",
+      "author_key": [
+        "OL22122A"
+      ],
+      "publisher_facet": [
+        "HarperCollins Publishers"
+      ],
+      "title_sort": "Goodnight Moon",
+      "ebook_access": "no_ebook",
+      "subject_facet": [
+        "Children's fiction",
+        "Picture books"
+      ],
+      "_version_": 1759775980450217984,
+      "publisher": [
+        "HarperCollins Publishers"
+      ],
+      "author_facet": [
+        "OL22122A Margaret Wise Brown"
+      ],
+      "publish_date": [
+        "2000",
+        "1970"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "edition_count": 1,
+      "id_amazon": [
+        ""
+      ],
+      "seed": [
+        "/books/OL43700522M",
+        "/works/OL31984121W"
+      ],
+      "isbn": [
+        "1442010908",
+        "9781442010901"
+      ],
+      "title_sort": "Goodnight Moon",
+      "edition_key": [
+        "OL43700522M"
+      ],
+      "ebook_access": "no_ebook",
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1670671030,
+      "_version_": 1759784974134804482,
+      "has_fulltext": false,
+      "publish_date": [
+        "????"
+      ],
+      "ebook_count_i": 0,
+      "key": "/works/OL31984121W"
+    },
+    {
+      "publish_year": [
+        1947
+      ],
+      "author_name": [
+        "Margaret Wise Brown"
+      ],
+      "edition_count": 1,
+      "first_publish_year": 1947,
+      "author_key": [
+        "OL10347174A"
+      ],
+      "id_amazon": [
+        "B0028Z0JXS"
+      ],
+      "seed": [
+        "/books/OL43019213M",
+        "/works/OL31368829W",
+        "/authors/OL10347174A"
+      ],
+      "publisher_facet": [
+        "E. M. Hale And Co."
+      ],
+      "id_better_world_books": [
+        ""
+      ],
+      "title_sort": "Goodnight Moon",
+      "edition_key": [
+        "OL43019213M"
+      ],
+      "ebook_access": "no_ebook",
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1670373209,
+      "_version_": 1759783855260172289,
+      "publisher": [
+        "E. M. Hale And Co."
+      ],
+      "author_facet": [
+        "OL10347174A Margaret Wise Brown"
+      ],
+      "has_fulltext": false,
+      "publish_date": [
+        "1947-01-01"
+      ],
+      "ebook_count_i": 0,
+      "key": "/works/OL31368829W"
+    },
+    {
+      "publish_year": [
+        2010
+      ],
+      "author_name": [
+        "Margaret J. Wise"
+      ],
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "seed": [
+        "/books/OL44134133M",
+        "/works/OL32378068W",
+        "/subjects/children's_fiction",
+        "/subjects/bedtime_fiction",
+        "/subjects/rabbits_fiction",
+        "/authors/OL2123069A"
+      ],
+      "subject": [
+        "Children's fiction",
+        "Bedtime, fiction",
+        "Rabbits, fiction"
+      ],
+      "isbn": [
+        "9780230748606",
+        "0230748600"
+      ],
+      "edition_key": [
+        "OL44134133M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1671261037,
+      "has_fulltext": false,
+      "subject_key": [
+        "bedtime_fiction",
+        "children's_fiction",
+        "rabbits_fiction"
+      ],
+      "key": "/works/OL32378068W",
+      "author_key": [
+        "OL2123069A"
+      ],
+      "publisher_facet": [
+        "Macmillan Publishers Limited"
+      ],
+      "title_sort": "Goodnight Moon",
+      "ebook_access": "no_ebook",
+      "subject_facet": [
+        "Bedtime, fiction",
+        "Children's fiction",
+        "Rabbits, fiction"
+      ],
+      "_version_": 1759785898267901952,
+      "publisher": [
+        "Macmillan Publishers Limited"
+      ],
+      "author_facet": [
+        "OL2123069A Margaret J. Wise"
+      ],
+      "publish_date": [
+        "2010"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "publish_year": [
+        1947
+      ],
+      "author_name": [
+        "Margaret Wise Brown"
+      ],
+      "edition_count": 1,
+      "first_publish_year": 1947,
+      "seed": [
+        "/books/OL34110851M",
+        "/works/OL25439497W",
+        "/authors/OL22122A"
+      ],
+      "author_alternative_name": [
+        "Golden MacDonald",
+        "Timothy Hay",
+        "Margaret Wise Brown",
+        "Juniper Sage",
+        "Margaret Wise Brown,Margaret Wise Brown",
+        "Margaret Wise And Edith Thatcher Hurd Brown"
+      ],
+      "isbn": [
+        "9781536403497",
+        "1536403490"
+      ],
+      "edition_key": [
+        "OL34110851M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1648832473,
+      "has_fulltext": false,
+      "key": "/works/OL25439497W",
+      "number_of_pages_median": 32,
+      "author_key": [
+        "OL22122A"
+      ],
+      "publisher_facet": [
+        "HarperCollins Publishers"
+      ],
+      "title_sort": "Goodnight Moon",
+      "ebook_access": "no_ebook",
+      "_version_": 1759772163877896192,
+      "publisher": [
+        "HarperCollins Publishers"
+      ],
+      "author_facet": [
+        "OL22122A Margaret Wise Brown"
+      ],
+      "publish_date": [
+        "1947"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "publish_year": [
+        2020
+      ],
+      "author_name": [
+        "Raymond Smith"
+      ],
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "seed": [
+        "/books/OL30031267M",
+        "/works/OL22016309W",
+        "/authors/OL201038A"
+      ],
+      "isbn": [
+        "9798645057909"
+      ],
+      "edition_key": [
+        "OL30031267M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1599067935,
+      "has_fulltext": false,
+      "key": "/works/OL22016309W",
+      "number_of_pages_median": 32,
+      "author_key": [
+        "OL201038A"
+      ],
+      "publisher_facet": [
+        "Independently Published"
+      ],
+      "title_sort": "Goodnight Moon",
+      "ebook_access": "no_ebook",
+      "_version_": 1759765340577857538,
+      "publisher": [
+        "Independently Published"
+      ],
+      "author_facet": [
+        "OL201038A Raymond Smith"
+      ],
+      "publish_date": [
+        "2020"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "edition_count": 1,
+      "id_amazon": [
+        "B000NXZ03G"
+      ],
+      "seed": [
+        "/books/OL46940690M",
+        "/works/OL34619290W"
+      ],
+      "currently_reading_count": 0,
+      "id_better_world_books": [
+        "BWBM51673844"
+      ],
+      "title_sort": "Goodnight Moon",
+      "edition_key": [
+        "OL46940690M"
+      ],
+      "ebook_access": "no_ebook",
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon",
+      "want_to_read_count": 0,
+      "type": "work",
+      "title": "Goodnight Moon",
+      "last_modified_i": 1677553143,
+      "already_read_count": 0,
+      "_version_": 1759865200659398657,
+      "readinglog_count": 0,
+      "has_fulltext": false,
+      "publish_date": [
+        "????"
+      ],
+      "ebook_count_i": 0,
+      "key": "/works/OL34619290W"
+    },
+    {
+      "publish_year": [
+        2021
+      ],
+      "cover_i": 13753793,
+      "author_name": [
+        "Brett Hoffstadt",
+        "Steve Tanaka"
+      ],
+      "edition_count": 4,
+      "first_publish_year": 2021,
+      "seed": [
+        "/books/OL36885090M",
+        "/books/OL36421085M",
+        "/books/OL36410993M",
+        "/books/OL36381057M",
+        "/works/OL26831311W",
+        "/subjects/children's_fiction",
+        "/subjects/technology",
+        "/authors/OL9653893A",
+        "/authors/OL10086113A"
+      ],
+      "currently_reading_count": 0,
+      "subject": [
+        "Children's fiction",
+        "Technology"
+      ],
+      "isbn": [
+        "1956622047",
+        "9781956622041",
+        "1956622055",
+        "1956622063",
+        "1956622071",
+        "9781956622072",
+        "9781956622058",
+        "9781956622065"
+      ],
+      "edition_key": [
+        "OL36885090M",
+        "OL36421085M",
+        "OL36410993M",
+        "OL36381057M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon Base",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon Base",
+      "last_modified_i": 1679409950,
+      "already_read_count": 0,
+      "readinglog_count": 0,
+      "has_fulltext": false,
+      "subject_key": [
+        "children's_fiction",
+        "technology"
+      ],
+      "key": "/works/OL26831311W",
+      "number_of_pages_median": 32,
+      "author_key": [
+        "OL9653893A",
+        "OL10086113A"
+      ],
+      "cover_edition_key": "OL36885090M",
+      "publisher_facet": [
+        "Aero Maestro"
+      ],
+      "title_sort": "Goodnight Moon Base",
+      "ebook_access": "no_ebook",
+      "want_to_read_count": 0,
+      "subject_facet": [
+        "Children's fiction",
+        "Technology"
+      ],
+      "_version_": 1760988970421846016,
+      "publisher": [
+        "Aero Maestro"
+      ],
+      "author_facet": [
+        "OL10086113A Steve Tanaka",
+        "OL9653893A Brett Hoffstadt"
+      ],
+      "publish_date": [
+        "2021"
+      ],
+      "ebook_count_i": 0
+    },
+    {
+      "publish_year": [
+        2021
+      ],
+      "cover_i": 13753793,
+      "author_name": [
+        "Brett Hoffstadt",
+        "Steve Tanaka"
+      ],
+      "edition_count": 4,
+      "first_publish_year": 2021,
+      "seed": [
+        "/books/OL36885090M",
+        "/books/OL36421085M",
+        "/books/OL36410993M",
+        "/books/OL36381057M",
+        "/works/OL26831311W",
+        "/subjects/children's_fiction",
+        "/subjects/technology",
+        "/authors/OL9653893A",
+        "/authors/OL10086113A"
+      ],
+      "currently_reading_count": 0,
+      "subject": [
+        "Children's fiction",
+        "Technology"
+      ],
+      "isbn": [
+        "1956622047",
+        "9781956622041",
+        "1956622055",
+        "1956622063",
+        "1956622071",
+        "9781956622072",
+        "9781956622058",
+        "9781956622065"
+      ],
+      "edition_key": [
+        "OL36885090M",
+        "OL36421085M",
+        "OL36410993M",
+        "OL36381057M"
+      ],
+      "public_scan_b": false,
+      "title_suggest": "Goodnight Moon Base",
+      "language": [
+        "eng"
+      ],
+      "type": "work",
+      "title": "Goodnight Moon Base",
+      "last_modified_i": 1679409950,
+      "already_read_count": 0,
+      "readinglog_count": 0,
+      "has_fulltext": false,
+      "subject_key": [
+        "children's_fiction",
+        "technology"
+      ],
+      "key": "/works/OL26831311W",
+      "number_of_pages_median": 32,
+      "author_key": [
+        "OL9653893A",
+        "OL10086113A"
+      ],
+      "cover_edition_key": "OL36885090M",
+      "publisher_facet": [
+        "Aero Maestro"
+      ],
+      "title_sort": "Goodnight Moon Base",
+      "ebook_access": "no_ebook",
+      "want_to_read_count": 0,
+      "subject_facet": [
+        "Children's fiction",
+        "Technology"
+      ],
+      "_version_": 1760988970421846016,
+      "publisher": [
+        "Aero Maestro"
+      ],
+      "author_facet": [
+        "OL10086113A Steve Tanaka",
+        "OL9653893A Brett Hoffstadt"
+      ],
+      "publish_date": [
+        "2021"
+      ],
+      "ebook_count_i": 0
+    }
+  ],
+  "offset": null,
+  "numFound": 141,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 141
+}

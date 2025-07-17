@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="classes" thread-count="4" >
+    <test name="/Users/shubhankarde/Desktop/MyProjects/OrangeHrm_TestNg">
+        <classes>
+            <class name="HrmFunctions.LoginE2EFlowTest">
+                <methods>
+                    <include name="addEmployeeE2EFlow"/>
+                </methods>
+            </class>
+            <class name="CardOfDeck.CheckersTest">
+                <methods>
+                    <include name="checkerTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

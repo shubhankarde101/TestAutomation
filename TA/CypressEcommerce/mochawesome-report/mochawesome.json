@@ -1,0 +1,138 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-07-17T11:24:06.305Z",
+    "end": "2023-07-17T11:25:38.830Z",
+    "duration": 92525,
+    "testsRegistered": 3,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "e04dacf4-25f5-4061-b2e1-891cfa925e42",
+      "title": "",
+      "fullFile": "cypress/integration/examples/test_ecommerce.js",
+      "file": "cypress/integration/examples/test_ecommerce.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "f1ac19a8-95c2-408f-b990-5539e2c569de",
+          "title": "Test E-Commerce website",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "Create a new account through registration",
+              "fullTitle": "Test E-Commerce website Create a new account through registration",
+              "timedOut": null,
+              "duration": 19652,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.visit(Cypress.env(\"baseUrl\"));\ncy.log(\"Base url opened\");\nthis.registrationpage.signInLink().click();\nthis.registrationpage.registerAccountLink().click();\nthis.registrationpage.completeRegistration(this.testdata.FirstName, this.testdata.LastName, this.testdata.DOB, this.testdata.Address, this.testdata.PostCode, this.testdata.City, this.testdata.State, this.testdata.Country, this.testdata.Phone, this.testdata.Pwd);\ncy.wait(3000);\ncy.getLocalStorage(\"email\").then(value => {\n  const email = String(value);\n  this.paymentpage.emailTxt().type(email);\n});\nthis.paymentpage.pwdTxt().type(this.testdata.Pwd);\nthis.paymentpage.submitBtn().click().then(() => {\n  cy.wait(2000);\n  this.paymentpage.userMenuDrpdwn().should('be.visible');\n  cy.log(\"Registration Successfull\");\n});",
+              "err": {},
+              "uuid": "e7c6af90-3106-4008-a86b-ab08d74239b4",
+              "parentUUID": "f1ac19a8-95c2-408f-b990-5539e2c569de",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Search and filter product",
+              "fullTitle": "Test E-Commerce website Search and filter product",
+              "timedOut": null,
+              "duration": 41291,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.visit(Cypress.env(\"baseUrl\"));\nthis.registrationpage.signInLink().click();\ncy.getLocalStorage(\"email\").then(value => {\n  const email = String(value);\n  this.paymentpage.emailTxt().type(email);\n});\nthis.paymentpage.pwdTxt().type(this.testdata.Pwd);\nthis.paymentpage.submitBtn().click().then(() => {\n  this.paymentpage.userMenuDrpdwn().should('be.visible');\n});\nthis.searchpage.homeBtn().click();\ncy.wait(5000);\ncy.validateCheckboxFilter(\"Hammer\");\nthis.searchpage.homeBtn().click();\ncy.validateCheckboxFilter(\"Sander\");\ncy.log(\"Checkbox filter is working as expected\");\ncy.validateSearchFilter(\"Hammer\");\nthis.searchpage.homeBtn().click();\ncy.validateSearchFilter(\"Sander\");\ncy.log(\"Search filter is working as expected\");",
+              "err": {},
+              "uuid": "eb689201-c4be-4e83-8004-282b0f2d91ba",
+              "parentUUID": "f1ac19a8-95c2-408f-b990-5539e2c569de",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Add to Cart, Checkout and payment",
+              "fullTitle": "Test E-Commerce website Add to Cart, Checkout and payment",
+              "timedOut": null,
+              "duration": 29422,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.visit(Cypress.env(\"baseUrl\"));\nthis.registrationpage.signInLink().click();\ncy.getLocalStorage(\"email\").then(value => {\n  const email = String(value);\n  this.paymentpage.emailTxt().type(email);\n});\nthis.paymentpage.pwdTxt().type(this.testdata.Pwd);\nthis.paymentpage.submitBtn().click().then(() => {\n  this.paymentpage.userMenuDrpdwn().should('be.visible');\n  this.searchpage.homeBtn().click();\n  let totalPrice = 0;\n  cy.addToCartAndFetchPrice(\"Hammer\");\n  this.searchpage.homeBtn().click().then(() => {\n    cy.wait(5000);\n    cy.addToCartAndFetchPrice(\"Sander\");\n  });\n  cy.log(\"Item added to Cart\");\n  this.cartpage.totalPrice().then(ele => {\n    totalPrice = ele.text();\n    totalPrice = parseFloat(totalPrice.replace('$', ''));\n    cy.log(\"The calculated total price is: \" + totalPrice);\n    cy.setLocalStorage(\"price\", totalPrice);\n    cy.saveLocalStorage();\n    this.cartpage.checkOutBtn().click();\n  });\n  this.paymentpage.checkoutBtn().click();\n  cy.log(\"Item checked out for payment\");\n  this.paymentpage.chkOutPaymentBtn().click();\n  this.paymentpage.paymentMethodDrpDwn().select(\"Bank Transfer\");\n  this.paymentpage.accountnameBox().type(\"Vinayak Pimpi\");\n  this.paymentpage.accountNumberBox().type(\"676767876756\");\n  this.paymentpage.confirmBtn().click();\n  cy.wait(2000);\n  cy.log(\"Payment successful\");\n  this.paymentpage.confirmBtn().click();\n  this.paymentpage.orderConfirmationLbl().should('have.contain', 'Thanks for your order!');\n  this.paymentpage.orderConfirmationLbl().then(ele => {\n    let invoiceNo = ele.text().split(\"Thanks for your order! Your invoice number is \")[1].split(\".\")[0];\n    cy.log(\"The invoice no is: \" + invoiceNo);\n    this.paymentpage.userMenuDrpdwn().click();\n    this.paymentpage.navigateToInvoice().click();\n    this.paymentpage.latestInvoiceLbl().then(element => {\n      expect(invoiceNo.toLowerCase()).to.eq(element.text().toLowerCase());\n      cy.log(\"Invoice validated successfuly\");\n    });\n    cy.getLocalStorage(\"price\").then(price => {\n      this.paymentpage.latestInvoicePrice().should('have.contain', price);\n      cy.log(\"Total price validated successfuly\");\n    });\n  });\n});",
+              "err": {},
+              "uuid": "93425e35-2418-4632-bdae-ce89a262a181",
+              "parentUUID": "f1ac19a8-95c2-408f-b990-5539e2c569de",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "e7c6af90-3106-4008-a86b-ab08d74239b4",
+            "eb689201-c4be-4e83-8004-282b0f2d91ba",
+            "93425e35-2418-4632-bdae-ce89a262a181"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 90365,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": null,
+      "version": "6.2.0"
+    }
+  }
+}

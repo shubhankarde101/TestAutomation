@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AmazonTDD" parallel="classes" thread-count="2">
+    <test verbose="2" name="/Users/shubhankarde/Desktop/MyProjects/AmazonProjectsTDD">
+        <parameter name="country" value="Nepal"/>
+        <classes>
+            <class name="com.mapViewer.MapperTest">
+                <methods>
+                    <include name="verifyZoomIn"/>
+                    <include name="verifyZoomOut"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

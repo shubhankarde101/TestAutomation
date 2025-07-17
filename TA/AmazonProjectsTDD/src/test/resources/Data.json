@@ -1,0 +1,60 @@
+{
+  "companyName": "Tech Solutions Inc",
+  "departments": [
+    {
+      "departmentId": "D001",
+      "departmentName": "Research and Development",
+      "manager": {
+        "employeeId": "E100",
+        "name": "Alice Johnson",
+        "position": "Department Manager"
+      },
+      "employees": [
+        {
+          "employeeId": "E101",
+          "name": "John Doe",
+          "position": "Senior Developer",
+          "projects": [
+            {"projectId": "P1001", "projectName": "InnovateX"},
+            {"projectId": "P1002", "projectName": "NextGen AI"}
+          ]
+        },
+        {
+          "employeeId": "E102",
+          "name": "Jane Smith",
+          "position": "Data Scientist",
+          "projects": [
+            {"projectId": "P1003", "projectName": "Data Analysis Suite"},
+            {"projectId": "P1004", "projectName": "IoT Solutions"}
+          ]
+        }
+      ]
+    },
+    {
+      "departmentId": "D002",
+      "departmentName": "Marketing",
+      "manager": {
+        "employeeId": "E200",
+        "name": "Bob Brown",
+        "position": "Department Manager"
+      },
+      "employees": [
+        {
+          "employeeId": "E201",
+          "name": "Sarah Miller",
+          "position": "Marketing Specialist",
+          "projects": [
+            {"projectId": "P2001", "projectName": "Global Branding"},
+            {"projectId": "P2002", "projectName": "Product Launch"}
+          ]
+        },
+        {
+          "employeeId": "E202",
+          "name": "James Wilson",
+          "position": "PR Coordinator",
+          "projects": []
+        }
+      ]
+    }
+  ]
+}

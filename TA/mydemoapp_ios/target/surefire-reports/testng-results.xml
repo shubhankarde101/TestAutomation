@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-04T21:18:15 IST" name="All Test Suite" finished-at="2023-07-04T21:18:25 IST" duration-ms="10743">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T21:18:15 IST" name="/Users/ankitjain/Desktop/deardoc_patientapp_ios" finished-at="2023-07-04T21:18:25 IST" duration-ms="10743">
+      <class name="com.iOS.patient.testcases.OrderToCashFlowTest">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:com.iOS.patient.testcases.OrderToCashFlowTest@45c8d09f]" started-at="2023-07-04T21:18:14 IST" name="setUpSuite" finished-at="2023-07-04T21:18:15 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.iOS.patient.testcases.OrderToCashFlowTest@45c8d09f]" started-at="2023-07-04T21:18:15 IST" name="setUp" finished-at="2023-07-04T21:18:21 IST" duration-ms="6107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductDetails(java.lang.String,java.lang.String)[pri:1, instance:com.iOS.patient.testcases.OrderToCashFlowTest@45c8d09f]" started-at="2023-07-04T21:18:21 IST" name="verifyProductDetails" finished-at="2023-07-04T21:18:24 IST" duration-ms="3491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sauce Labs Fleece Jacket]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[$49.99]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iOS.patient.testcases.OrderToCashFlowTest@45c8d09f]" started-at="2023-07-04T21:18:24 IST" name="tearDown" finished-at="2023-07-04T21:18:25 IST" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:com.iOS.patient.testcases.OrderToCashFlowTest@45c8d09f]" started-at="2023-07-04T21:18:26 IST" name="tearDownSuite" finished-at="2023-07-04T21:18:26 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- com.iOS.patient.testcases.OrderToCashFlowTest -->
+    </test> <!-- /Users/ankitjain/Desktop/deardoc_patientapp_ios -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

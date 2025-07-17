@@ -1,0 +1,19 @@
+{
+   "FirstName": "Vinayak",
+   "LastName": "Pimpi",
+   "DOB": "1990-01-23",
+   "Address": "Ambagan",
+   "PostCode": "676564",
+   "City": "Mumbai",
+   "State": "Maharashtra",
+   "Country": "Algeria",
+   "Phone": "7878766765",
+   "Pwd": "Test@4321",
+   "ItemCategory1": "Hammer",
+   "ItemCategory2": "Sander",
+   "PaymentMethod": "Bank Transfer",
+   "AccountName": "Vinayak123",
+   "AccountNumber": "6767656765",
+   "Email": "uv9q5pkfr@example.com"
+
+}

@@ -1,0 +1,110 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 0,
+    "pending": 0,
+    "failures": 1,
+    "testsRegistered": 1,
+    "passPercent": 0,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false,
+    "start": "2025-01-03T22:32:20.371Z",
+    "end": "2025-01-03T22:32:44.961Z",
+    "duration": 24590
+  },
+  "results": [
+    {
+      "uuid": "0b9957b5-0a15-41c2-bc78-b15cf329de3d",
+      "title": "",
+      "fullFile": "cypress/integration/AutomationPhase1/login.js",
+      "file": "cypress/integration/AutomationPhase1/login.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "defb76e6-07d0-484d-8684-39a7c7840122",
+          "title": "Teesnap Admin login functionalities",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "Verify_user_is_able_to_login_with_valid_credentials",
+              "fullTitle": "Teesnap Admin login functionalities Verify_user_is_able_to_login_with_valid_credentials",
+              "timedOut": null,
+              "duration": 22690,
+              "state": "failed",
+              "speed": null,
+              "pass": false,
+              "fail": true,
+              "pending": false,
+              "context": "\"assets/login.js/Teesnap Admin login functionalities -- Verify_user_is_able_to_login_with_valid_credentials (failed).png\"",
+              "code": "cy.visit(Cypress.env(\"baseUrl\"));\nthis.login.inputUser().type(this.testdata.Email);\ncy.screenshot(\"Enter user name\");\nthis.login.inputPwd().type(this.testdata.pwd);\ncy.screenshot(\"Enter password\");\nthis.login.signInLink().click();\nthis.login.userLabel().should('be.visible').and('contain.text', this.testdata.userlabel);\ncy.log(\"Validation Successfull\");",
+              "err": {
+                "message": "AssertionError: Timed out retrying after 15000ms: expected '<div.user-name>' to contain text 'Lrabhakaran N', but the text was 'Prabhakaran N'",
+                "estack": "AssertionError: Timed out retrying after 15000ms: expected '<div.user-name>' to contain text 'Lrabhakaran N', but the text was 'Prabhakaran N'\n    at Context.eval (webpack:///./cypress/integration/AutomationPhase1/login.js:24:7)",
+                "diff": "- 'Prabhakaran N'\n+ 'Lrabhakaran N'\n"
+              },
+              "uuid": "9371fa29-d968-4cda-a0d9-404468ad3644",
+              "parentUUID": "defb76e6-07d0-484d-8684-39a7c7840122",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [],
+          "failures": [
+            "9371fa29-d968-4cda-a0d9-404468ad3644"
+          ],
+          "pending": [],
+          "skipped": [],
+          "duration": 22690,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": false,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": {
+        "id": "default",
+        "reportDir": "cypress/reports/mocha",
+        "quite": true,
+        "html": false,
+        "json": true
+      },
+      "version": "6.2.0"
+    }
+  }
+}
