@@ -1,0 +1,79 @@
+[INFO ] 2024-11-18 18:05:09.351 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:05:09.355 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:05:09.361 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:05:09.522 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 18:05:09.711 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:05:09.849 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 18:05:09.893 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 18:05:10.044 [main] OnlineShopStepSteps - Selecting the product Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-11-18 18:05:10.080 [main] OnlineShopStepSteps - The total Price is: 15.99
+[INFO ] 2024-11-18 18:05:10.080 [main] OnlineShopStepSteps - Product selected
+[INFO ] 2024-11-18 18:05:10.249 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Bike Light
+[INFO ] 2024-11-18 18:05:10.275 [main] OnlineShopStepSteps - The total Price is: 25.98
+[INFO ] 2024-11-18 18:05:10.276 [main] OnlineShopStepSteps - Product selected
+[INFO ] 2024-11-18 18:05:10.483 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Backpack
+[INFO ] 2024-11-18 18:05:10.511 [main] OnlineShopStepSteps - The total Price is: 55.97
+[INFO ] 2024-11-18 18:05:10.511 [main] OnlineShopStepSteps - Product selected
+[INFO ] 2024-11-18 18:05:10.695 [main] OnlineShopStepSteps - Removing the product Sauce Labs Bike Light
+[INFO ] 2024-11-18 18:05:10.718 [main] OnlineShopStepSteps - Price to reduce is: 9.99
+[INFO ] 2024-11-18 18:05:10.718 [main] OnlineShopStepSteps - Product removed
+[INFO ] 2024-11-18 18:05:11.125 [main] OnlineShopStepSteps - Checkout successful
+[INFO ] 2024-11-18 18:05:11.286 [main] OnlineShopStepSteps - Order placed
+[INFO ] 2024-11-18 18:05:13.447 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:05:13.447 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:05:14.539 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:05:14.676 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 18:05:14.829 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:05:14.981 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 18:05:15.019 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 18:05:18.120 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:05:18.124 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:05:18.127 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:05:18.262 [main] OnlineShopStepSteps - locked_out_user user is entering credentials
+[INFO ] 2024-11-18 18:05:18.427 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:05:18.567 [main] OnlineShopStepSteps - Verify locked out user is unable to sign in
+[INFO ] 2024-11-18 18:05:18.585 [main] OnlineShopStepSteps - The actual error message showing is: Sorry, this user has been locked out.
+[INFO ] 2024-11-18 18:05:18.585 [main] OnlineShopStepSteps - User Signed in UnSuccessful
+[INFO ] 2024-11-18 18:05:21.663 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:05:21.665 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:05:21.669 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:05:21.815 [main] OnlineShopStepSteps - problem_user user is entering credentials
+[INFO ] 2024-11-18 18:05:21.961 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:05:22.096 [main] OnlineShopStepSteps - Verify problem user is able to sign in but unable to see the images
+[INFO ] 2024-11-18 18:05:22.703 [main] OnlineShopStepSteps - Verification Successful
+[INFO ] 2024-11-18 18:05:24.787 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:05:24.789 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:05:25.874 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:05:26.029 [main] OnlineShopStepSteps - performance_glitch_user user is entering credentials
+[INFO ] 2024-11-18 18:05:31.178 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:05:31.316 [main] OnlineShopStepSteps - Verify Performance user is able to sign in with high loading time
+[INFO ] 2024-11-18 18:05:31.352 [main] OnlineShopStepSteps - Verification Successful
+[INFO ] 2024-11-18 18:06:49.072 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:06:49.073 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:06:49.080 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:06:49.229 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 18:06:49.406 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:06:49.555 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 18:06:49.606 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 18:06:49.786 [main] OnlineShopStepSteps - Selecting the product Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-11-18 18:06:51.753 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:06:51.754 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:06:52.843 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:06:53.004 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 18:06:53.190 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:06:53.337 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 18:06:53.380 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 18:06:55.327 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:06:55.328 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:06:56.410 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:06:56.542 [main] OnlineShopStepSteps - locked_out_user user is entering credentials
+[INFO ] 2024-11-18 18:06:56.716 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:06:56.840 [main] OnlineShopStepSteps - Verify locked out user is unable to sign in
+[INFO ] 2024-11-18 18:06:56.859 [main] OnlineShopStepSteps - The actual error message showing is: Sorry, this user has been locked out.
+[INFO ] 2024-11-18 18:06:56.859 [main] OnlineShopStepSteps - User Signed in UnSuccessful
+[INFO ] 2024-11-18 18:06:58.763 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 18:06:58.763 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 18:06:59.825 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 18:06:59.954 [main] OnlineShopStepSteps - problem_user user is entering credentials
+[INFO ] 2024-11-18 18:07:00.106 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 18:07:00.258 [main] OnlineShopStepSteps - Verify problem user is able to sign in but unable to see the images
