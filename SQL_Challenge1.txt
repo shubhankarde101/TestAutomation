@@ -8,7 +8,7 @@ placed within 10 years of the first order (earliest order_date) in the database.
 Print the customer name and order price. 
 If multiple records are returned, they can be in any order.
 
-
+  
 
 SELECT C.NAME, O.PRICE
 FROM ORDERS O, CUSTOMERS C 
