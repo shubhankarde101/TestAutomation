@@ -1,0 +1,164 @@
+[INFO ] 2024-01-26 19:24:09.416 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-01-26 19:24:09.419 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-01-26 19:24:09.426 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-01-26 19:24:09.605 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-01-26 19:24:09.795 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-01-26 19:24:09.977 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-01-26 19:24:10.046 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-01-26 19:24:10.275 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Bolt T-Shirt
+[INFO ] 2024-11-18 14:10:17.116 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:10:17.125 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:10:18.304 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 14:10:18.472 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 14:10:18.655 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 14:10:18.806 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 14:10:18.863 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 14:10:20.623 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:10:20.623 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:10:21.717 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 14:10:21.857 [main] OnlineShopStepSteps - locked_out_user user is entering credentials
+[INFO ] 2024-11-18 14:10:22.007 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 14:10:22.131 [main] OnlineShopStepSteps - Verify locked out user is unable to sign in
+[INFO ] 2024-11-18 14:10:22.156 [main] OnlineShopStepSteps - The actual error message showing is: Sorry, this user has been locked out.
+[INFO ] 2024-11-18 14:10:22.156 [main] OnlineShopStepSteps - User Signed in UnSuccessful
+[INFO ] 2024-11-18 14:10:24.896 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:10:24.897 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:10:24.899 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 14:10:25.060 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 14:10:25.206 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 14:10:25.344 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 14:10:25.389 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 14:10:25.611 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Bolt T-Shirt
+[INFO ] 2024-11-18 14:12:30.060 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:12:30.063 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:12:30.068 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 14:12:30.232 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 14:12:30.395 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 14:12:30.532 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 14:12:30.591 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 14:12:33.533 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:12:33.535 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:12:33.538 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 14:12:33.668 [main] OnlineShopStepSteps - locked_out_user user is entering credentials
+[INFO ] 2024-11-18 14:12:33.830 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 14:12:33.964 [main] OnlineShopStepSteps - Verify locked out user is unable to sign in
+[INFO ] 2024-11-18 14:12:33.990 [main] OnlineShopStepSteps - The actual error message showing is: Sorry, this user has been locked out.
+[INFO ] 2024-11-18 14:12:33.990 [main] OnlineShopStepSteps - User Signed in UnSuccessful
+[INFO ] 2024-11-18 14:12:36.749 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:12:36.749 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:12:36.752 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 14:12:36.893 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 14:12:37.043 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 14:12:37.194 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 14:12:37.241 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 14:12:37.449 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Bolt T-Shirt
+[INFO ] 2024-11-18 14:12:44.319 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:12:44.320 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:12:45.419 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 14:12:45.561 [main] OnlineShopStepSteps - problem_user user is entering credentials
+[INFO ] 2024-11-18 14:12:45.712 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 14:12:45.842 [main] OnlineShopStepSteps - Verify problem user is able to sign in but unable to see the images
+[INFO ] 2024-11-18 14:12:46.470 [main] OnlineShopStepSteps - Verification Successful
+[INFO ] 2024-11-18 14:12:49.377 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:12:49.377 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:12:49.380 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 14:12:49.498 [main] OnlineShopStepSteps - performance_glitch_user user is entering credentials
+[INFO ] 2024-11-18 14:12:54.652 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 14:12:54.856 [main] OnlineShopStepSteps - Verify Performance user is able to sign in with high loading time
+[INFO ] 2024-11-18 14:12:54.898 [main] OnlineShopStepSteps - Verification Successful
+[INFO ] 2024-11-18 14:13:36.562 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:13:36.566 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:13:38.595 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:13:38.595 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:13:40.244 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:13:40.244 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 14:13:41.837 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 14:13:41.837 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 16:51:58.219 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 16:51:58.222 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 16:51:58.229 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 16:51:58.383 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 16:51:58.568 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 16:51:58.715 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 16:51:58.773 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 16:52:01.662 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 16:52:01.663 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 16:52:01.666 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 16:52:01.797 [main] OnlineShopStepSteps - locked_out_user user is entering credentials
+[INFO ] 2024-11-18 16:52:01.951 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 16:52:02.074 [main] OnlineShopStepSteps - Verify locked out user is unable to sign in
+[INFO ] 2024-11-18 16:52:02.099 [main] OnlineShopStepSteps - The actual error message showing is: Sorry, this user has been locked out.
+[INFO ] 2024-11-18 16:52:02.099 [main] OnlineShopStepSteps - User Signed in UnSuccessful
+[INFO ] 2024-11-18 16:52:04.873 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 16:52:04.873 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 16:52:04.875 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 16:52:05.016 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 16:52:05.165 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 16:52:05.319 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 16:52:05.365 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 16:52:05.535 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Bolt T-Shirt
+[INFO ] 2024-11-18 16:52:05.569 [main] OnlineShopStepSteps - The total Price is: 15.99
+[INFO ] 2024-11-18 16:52:05.569 [main] OnlineShopStepSteps - Product selected
+[INFO ] 2024-11-18 16:52:05.745 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Backpack
+[INFO ] 2024-11-18 16:52:05.775 [main] OnlineShopStepSteps - The total Price is: 45.98
+[INFO ] 2024-11-18 16:52:05.775 [main] OnlineShopStepSteps - Product selected
+[INFO ] 2024-11-18 16:52:06.134 [main] OnlineShopStepSteps - Checkout successful
+[INFO ] 2024-11-18 16:52:06.294 [main] OnlineShopStepSteps - Order placed
+[INFO ] 2024-11-18 16:52:07.997 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 16:52:07.998 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 16:52:09.067 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 16:52:09.194 [main] OnlineShopStepSteps - problem_user user is entering credentials
+[INFO ] 2024-11-18 16:52:09.351 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 16:52:09.500 [main] OnlineShopStepSteps - Verify problem user is able to sign in but unable to see the images
+[INFO ] 2024-11-18 16:52:10.141 [main] OnlineShopStepSteps - Verification Successful
+[INFO ] 2024-11-18 16:52:11.908 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 16:52:11.908 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 16:52:13.007 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 16:52:13.146 [main] OnlineShopStepSteps - performance_glitch_user user is entering credentials
+[INFO ] 2024-11-18 16:52:18.300 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 16:52:18.507 [main] OnlineShopStepSteps - Verify Performance user is able to sign in with high loading time
+[INFO ] 2024-11-18 16:52:18.550 [main] OnlineShopStepSteps - Verification Successful
+[INFO ] 2024-11-18 17:00:59.043 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 17:00:59.046 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 17:00:59.054 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 17:00:59.201 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 17:00:59.393 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 17:00:59.529 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 17:00:59.583 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 17:01:01.498 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 17:01:01.498 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 17:01:02.655 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 17:01:02.803 [main] OnlineShopStepSteps - locked_out_user user is entering credentials
+[INFO ] 2024-11-18 17:01:02.958 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 17:01:03.092 [main] OnlineShopStepSteps - Verify locked out user is unable to sign in
+[INFO ] 2024-11-18 17:01:03.117 [main] OnlineShopStepSteps - The actual error message showing is: Sorry, this user has been locked out.
+[INFO ] 2024-11-18 17:01:03.117 [main] OnlineShopStepSteps - User Signed in UnSuccessful
+[INFO ] 2024-11-18 17:01:04.867 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 17:01:04.868 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 17:01:05.947 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 17:01:06.083 [main] OnlineShopStepSteps - standard_user user is entering credentials
+[INFO ] 2024-11-18 17:01:06.236 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 17:01:06.387 [main] OnlineShopStepSteps - Verify standard user is able to sign in
+[INFO ] 2024-11-18 17:01:06.435 [main] OnlineShopStepSteps - User Signed in successfully
+[INFO ] 2024-11-18 17:01:06.604 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Bolt T-Shirt
+[INFO ] 2024-11-18 17:01:06.641 [main] OnlineShopStepSteps - The total Price is: 15.99
+[INFO ] 2024-11-18 17:01:06.641 [main] OnlineShopStepSteps - Product selected
+[INFO ] 2024-11-18 17:01:06.825 [main] OnlineShopStepSteps - Selecting the product Sauce Labs Backpack
+[INFO ] 2024-11-18 17:01:06.854 [main] OnlineShopStepSteps - The total Price is: 45.98
+[INFO ] 2024-11-18 17:01:06.854 [main] OnlineShopStepSteps - Product selected
+[INFO ] 2024-11-18 17:01:07.234 [main] OnlineShopStepSteps - Checkout successful
+[INFO ] 2024-11-18 17:01:07.394 [main] OnlineShopStepSteps - Order placed
+[INFO ] 2024-11-18 17:01:10.220 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 17:01:10.223 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 17:01:10.226 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 17:01:10.362 [main] OnlineShopStepSteps - problem_user user is entering credentials
+[INFO ] 2024-11-18 17:01:10.516 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 17:01:10.657 [main] OnlineShopStepSteps - Verify problem user is able to sign in but unable to see the images
+[INFO ] 2024-11-18 17:01:11.300 [main] OnlineShopStepSteps - Verification Successful
+[INFO ] 2024-11-18 17:01:13.198 [main] OnlineShopStepSteps - --------------Test Started---------------
+[INFO ] 2024-11-18 17:01:13.199 [main] OnlineShopStepSteps - Verifying the page title
+[INFO ] 2024-11-18 17:01:14.277 [main] OnlineShopStepSteps - Page title verified
+[INFO ] 2024-11-18 17:01:14.432 [main] OnlineShopStepSteps - performance_glitch_user user is entering credentials
+[INFO ] 2024-11-18 17:01:19.592 [main] OnlineShopStepSteps - Credentials entered
+[INFO ] 2024-11-18 17:01:19.804 [main] OnlineShopStepSteps - Verify Performance user is able to sign in with high loading time
+[INFO ] 2024-11-18 17:01:19.848 [main] OnlineShopStepSteps - Verification Successful
